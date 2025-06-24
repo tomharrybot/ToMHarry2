@@ -1,175 +1,571 @@
-<!DOCTYPE html><html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Amir All in One API</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-MCZvxxyFhoRe+HUtNJkpM+3J36mWJXflw7QnUZ6M2xKr9FRe6bi3CJvTuDK9PZ4UEZpOrFgzRBVZlKqJhzNHTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  display: flex;
-  height: 100vh;
-  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
-  color: #fff;
-}
-
-.sidebar {
-  width: 280px;
-  background: #111;
-  padding: 20px;
-  position: fixed;
-  height: 100vh;
-  overflow-y: auto;
-  transition: all 0.3s ease;
-  border-right: 3px solid crimson;
-}
-
-.sidebar h2 {
-  font-size: 1.6rem;
-  margin-bottom: 30px;
-  text-align: center;
-  color: crimson;
-}
-
-.category {
-  margin-bottom: 25px;
-}
-
-.category h3 {
-  font-size: 1.2rem;
-  margin-bottom: 10px;
-  border-bottom: 1px solid crimson;
-  padding-bottom: 5px;
-}
-
-.api-link {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  margin: 10px 0;
-  padding: 10px;
-  background: #1e1e1e;
-  border-radius: 10px;
-  transition: 0.3s;
-  text-decoration: none;
-  color: #fff;
-}
-
-.api-link:hover {
-  background: crimson;
-  color: #fff;
-}
-
-.api-link i {
-  font-size: 1.2rem;
-}
-
-.content {
-  margin-left: 280px;
-  padding: 40px;
-  flex: 1;
-}
-
-.header {
-  background: crimson;
-  padding: 20px;
-  border-radius: 10px;
-  text-align: center;
-  box-shadow: 0 0 20px rgba(0,0,0,0.5);
-}
-
-.header h1 {
-  font-size: 2.2rem;
-  color: #fff;
-  letter-spacing: 2px;
-}
-
-@media (max-width: 768px) {
-  .sidebar {
-    left: -100%;
-    position: absolute;
-    z-index: 999;
-  }
-
-  .sidebar.active {
-    left: 0;
-  }
-
-  .content {
-    margin-left: 0;
-    padding: 20px;
-  }
-
-  .toggle-btn {
-    position: absolute;
-    top: 15px;
-    left: 15px;
-    background: crimson;
-    color: #fff;
-    padding: 10px 15px;
-    border: none;
-    cursor: pointer;
-    z-index: 1000;
-    border-radius: 5px;
-  }
-}
-
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amir All in One API | Premium</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        * { 
+            margin: 0; 
+            padding: 0; 
+            box-sizing: border-box; 
+        }
+        
+        body { 
+            font-family: 'Poppins', sans-serif; 
+            display: flex; 
+            flex-direction: column;
+            min-height: 100vh; 
+            background: linear-gradient(to right, #0f2027, #203a43, #2c5364); 
+            color: #fff; 
+        } 
+        
+        /* Header Styles */
+        .top-header {
+            background: rgba(0,0,0,0.7);
+            padding: 15px 0;
+            border-bottom: 2px solid crimson;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            backdrop-filter: blur(10px);
+        }
+        
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .logo i {
+            color: crimson;
+            font-size: 2rem;
+        }
+        
+        .logo-text {
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 700;
+            font-size: 1.8rem;
+            background: linear-gradient(to right, #ff416c, #ff4b2b);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        .premium-badge {
+            background: linear-gradient(to right, #f7971e, #ffd200);
+            color: #000;
+            padding: 5px 10px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-left: 10px;
+        }
+        
+        /* Sidebar Styles */
+        .sidebar { 
+            width: 280px; 
+            background: #111; 
+            padding: 20px; 
+            position: fixed; 
+            height: 100vh; 
+            overflow-y: auto; 
+            transition: all 0.3s ease; 
+            border-right: 3px solid crimson; 
+            top: 70px;
+        } 
+        
+        .sidebar h2 { 
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1.6rem; 
+            margin-bottom: 30px; 
+            text-align: center; 
+            color: crimson; 
+        } 
+        
+        .category { 
+            margin-bottom: 25px; 
+        } 
+        
+        .category-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            padding: 10px;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+        
+        .category-header:hover {
+            background: rgba(220, 20, 60, 0.2);
+        }
+        
+        .category-header h3 { 
+            font-size: 1.1rem; 
+            margin-bottom: 0;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: #fff;
+        } 
+        
+        .category-header i.fa-chevron-down {
+            transition: transform 0.3s ease;
+        }
+        
+        .category-header.collapsed i.fa-chevron-down {
+            transform: rotate(-90deg);
+        }
+        
+        .api-links {
+            overflow: hidden;
+            transition: all 0.3s ease;
+            padding-left: 10px;
+        }
+        
+        .category.collapsed .api-links {
+            max-height: 0 !important;
+            padding-top: 0;
+            padding-bottom: 0;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        
+        .api-link { 
+            display: flex; 
+            align-items: center; 
+            gap: 10px; 
+            margin: 10px 0; 
+            padding: 12px 15px; 
+            background: #1e1e1e; 
+            border-radius: 10px; 
+            transition: 0.3s; 
+            text-decoration: none; 
+            color: #fff; 
+            border-left: 3px solid transparent;
+        } 
+        
+        .api-link:hover { 
+            background: rgba(220, 20, 60, 0.7); 
+            color: #fff; 
+            border-left: 3px solid #fff;
+            transform: translateX(5px);
+        } 
+        
+        .api-link i { 
+            font-size: 1.2rem; 
+            width: 20px;
+            text-align: center;
+        } 
+        
+        /* Content Styles */
+        .main-content { 
+            margin-left: 280px; 
+            padding: 40px; 
+            flex: 1;
+            margin-top: 70px;
+        } 
+        
+        .hero { 
+            background: rgba(220, 20, 60, 0.8); 
+            padding: 40px; 
+            border-radius: 15px; 
+            text-align: center; 
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5); 
+            margin-bottom: 40px;
+            background: linear-gradient(135deg, rgba(220, 20, 60, 0.8), rgba(139, 0, 0, 0.8));
+            border: 1px solid rgba(255,255,255,0.1);
+        } 
+        
+        .hero h1 { 
+            font-family: 'Montserrat', sans-serif;
+            font-size: 2.5rem; 
+            color: #fff; 
+            letter-spacing: 2px; 
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .hero p {
+            font-size: 1.1rem;
+            max-width: 800px;
+            margin: 0 auto 25px;
+            line-height: 1.6;
+        }
+        
+        .btn-premium {
+            background: linear-gradient(to right, #f7971e, #ffd200);
+            color: #000;
+            padding: 12px 30px;
+            border: none;
+            border-radius: 50px;
+            font-weight: 600;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(247, 151, 30, 0.4);
+        }
+        
+        .btn-premium:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 7px 20px rgba(247, 151, 30, 0.6);
+        }
+        
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            margin-top: 40px;
+        }
+        
+        .feature-card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 15px;
+            padding: 25px;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(255,255,255,0.1);
+            backdrop-filter: blur(10px);
+        }
+        
+        .feature-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+            border-color: rgba(220, 20, 60, 0.5);
+        }
+        
+        .feature-card i {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+            color: crimson;
+        }
+        
+        .feature-card h3 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1.3rem;
+            margin-bottom: 15px;
+        }
+        
+        /* Footer Styles */
+        footer {
+            background: rgba(0,0,0,0.8);
+            padding: 30px 0;
+            border-top: 2px solid crimson;
+            margin-top: auto;
+        }
+        
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .footer-logo {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1.5rem;
+            font-weight: 700;
+            background: linear-gradient(to right, #ff416c, #ff4b2b);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        .social-links {
+            display: flex;
+            gap: 15px;
+        }
+        
+        .social-links a {
+            color: #fff;
+            font-size: 1.3rem;
+            transition: all 0.3s ease;
+        }
+        
+        .social-links a:hover {
+            color: crimson;
+            transform: translateY(-3px);
+        }
+        
+        .copyright {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9rem;
+            opacity: 0.7;
+        }
+        
+        /* Mobile Styles */
+        @media (max-width: 768px) { 
+            .sidebar { 
+                left: -100%; 
+                position: fixed; 
+                z-index: 999; 
+                top: 70px;
+                height: calc(100vh - 70px);
+            } 
+            
+            .sidebar.active { 
+                left: 0; 
+            } 
+            
+            .main-content { 
+                margin-left: 0; 
+                padding: 20px; 
+            } 
+            
+            .toggle-btn { 
+                position: absolute; 
+                top: 15px; 
+                left: 15px; 
+                background: crimson; 
+                color: #fff; 
+                padding: 10px 15px; 
+                border: none; 
+                cursor: pointer; 
+                z-index: 1000; 
+                border-radius: 5px; 
+            } 
+            
+            .header-content {
+                justify-content: center;
+            }
+            
+            .hero h1 {
+                font-size: 2rem;
+            }
+            
+            .footer-content {
+                flex-direction: column;
+                gap: 20px;
+                text-align: center;
+            }
+        }
+        
+        /* Animation */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .feature-card {
+            animation: fadeIn 0.5s ease forwards;
+        }
+        
+        .feature-card:nth-child(1) { animation-delay: 0.1s; }
+        .feature-card:nth-child(2) { animation-delay: 0.2s; }
+        .feature-card:nth-child(3) { animation-delay: 0.3s; }
+        .feature-card:nth-child(4) { animation-delay: 0.4s; }
+    </style>
 </head>
 <body>
-  <button class="toggle-btn" onclick="toggleSidebar()"><i class="fas fa-bars"></i></button>  <div class="sidebar" id="sidebar">
-    <h2><i class="fas fa-layer-group"></i> Amir APIs</h2><div class="category">
-  <h3><i class="fas fa-brain"></i> Knowledge</h3>
-  <a href="/api/sim" class="api-link">
-    <i class="fas fa-book-reader"></i>
-    <span>SimTeach</span>
-  </a>
-</div>
-
-<div class="category">
-  <h3><i class="fas fa-photo-video"></i> Media</h3>
-  <a href="/api/canvas" class="api-link">
-    <i class="fas fa-paint-brush"></i>
-    <span>Canvas</span>
-  </a>
-</div>
-
-<div class="category">
-  <h3><i class="fas fa-download"></i> Downloader</h3>
-  <a href="/api/tikdl" class="api-link">
-    <i class="fab fa-tiktok"></i>
-    <span>TikTok Downloader</span>
-  </a>
-  <a href="/api/fbdl" class="api-link">
-    <i class="fab fa-facebook"></i>
-    <span>Facebook Downloader</span>
-  </a>
-</div>
-
-<div class="category">
-  <h3><i class="fas fa-search"></i> Search</h3>
-  <a href="#" class="api-link">
-    <i class="fas fa-search"></i>
-    <span>Coming Soon</span>
-  </a>
-</div>
-
-  </div>  <div class="content">
-    <div class="header">
-      <h1>Welcome to Amir All in One API (Pro Version)</h1>
+    <!-- Header -->
+    <header class="top-header">
+        <div class="header-content">
+            <div class="logo">
+                <i class="fas fa-code"></i>
+                <span class="logo-text">Amir API</span>
+                <span class="premium-badge">PREMIUM</span>
+            </div>
+            <button class="toggle-btn" onclick="toggleSidebar()">
+                <i class="fas fa-bars"></i>
+            </button>
+        </div>
+    </header>
+    
+    <!-- Sidebar -->
+    <div class="sidebar" id="sidebar">
+        <h2>API Dashboard</h2>
+        
+        <div class="category">
+            <div class="category-header" onclick="toggleCategory(this)">
+                <h3><i class="fas fa-brain"></i> Knowledge</h3>
+                <i class="fas fa-chevron-down"></i>
+            </div>
+            <div class="api-links">
+                <a href="/api/sim" class="api-link">
+                    <i class="fas fa-book-reader"></i>
+                    <span>SimTeach</span>
+                </a>
+                <a href="#" class="api-link">
+                    <i class="fas fa-robot"></i>
+                    <span>AI Chat</span>
+                </a>
+            </div>
+        </div>
+        
+        <div class="category">
+            <div class="category-header" onclick="toggleCategory(this)">
+                <h3><i class="fas fa-photo-video"></i> Media</h3>
+                <i class="fas fa-chevron-down"></i>
+            </div>
+            <div class="api-links">
+                <a href="/api/canvas" class="api-link">
+                    <i class="fas fa-paint-brush"></i>
+                    <span>Canvas</span>
+                </a>
+                <a href="#" class="api-link">
+                    <i class="fas fa-image"></i>
+                    <span>Image Editor</span>
+                </a>
+            </div>
+        </div>
+        
+        <div class="category">
+            <div class="category-header" onclick="toggleCategory(this)">
+                <h3><i class="fas fa-download"></i> Downloader</h3>
+                <i class="fas fa-chevron-down"></i>
+            </div>
+            <div class="api-links">
+                <a href="/api/tikdl" class="api-link">
+                    <i class="fab fa-tiktok"></i>
+                    <span>TikTok Downloader</span>
+                </a>
+                <a href="/api/fbdl" class="api-link">
+                    <i class="fab fa-facebook"></i>
+                    <span>Facebook Downloader</span>
+                </a>
+                <a href="#" class="api-link">
+                    <i class="fab fa-youtube"></i>
+                    <span>YouTube Downloader</span>
+                </a>
+            </div>
+        </div>
+        
+        <div class="category">
+            <div class="category-header" onclick="toggleCategory(this)">
+                <h3><i class="fas fa-search"></i> Search</h3>
+                <i class="fas fa-chevron-down"></i>
+            </div>
+            <div class="api-links">
+                <a href="#" class="api-link">
+                    <i class="fas fa-search"></i>
+                    <span>Web Search</span>
+                </a>
+                <a href="#" class="api-link">
+                    <i class="fas fa-image"></i>
+                    <span>Image Search</span>
+                </a>
+            </div>
+        </div>
+        
+        <div class="category">
+            <div class="category-header" onclick="toggleCategory(this)">
+                <h3><i class="fas fa-tools"></i> Utilities</h3>
+                <i class="fas fa-chevron-down"></i>
+            </div>
+            <div class="api-links">
+                <a href="#" class="api-link">
+                    <i class="fas fa-link"></i>
+                    <span>URL Shortener</span>
+                </a>
+                <a href="#" class="api-link">
+                    <i class="fas fa-qrcode"></i>
+                    <span>QR Generator</span>
+                </a>
+            </div>
+        </div>
     </div>
-    <p style="margin-top: 30px; font-size: 1.2rem; line-height: 1.6;">
-      Explore all available APIs categorized for Knowledge, Media, Downloaders and more.
-      Click on any API name in the sidebar to go directly to its endpoint.
-    </p>
-  </div>  <script>
-    function toggleSidebar() {
-      const sidebar = document.getElementById('sidebar');
-      sidebar.classList.toggle('active');
-    }
-  </script></body>
+    
+    <!-- Main Content -->
+    <main class="main-content">
+        <section class="hero">
+            <h1>Amir All in One API</h1>
+            <p>Premium API solutions for developers and businesses. Access powerful tools with simple endpoints to enhance your applications.</p>
+            <button class="btn-premium">Upgrade to Pro</button>
+        </section>
+        
+        <div class="features">
+            <div class="feature-card">
+                <i class="fas fa-bolt"></i>
+                <h3>Lightning Fast</h3>
+                <p>Our APIs are optimized for speed with average response times under 200ms globally.</p>
+            </div>
+            
+            <div class="feature-card">
+                <i class="fas fa-shield-alt"></i>
+                <h3>Secure & Reliable</h3>
+                <p>Enterprise-grade security with 99.9% uptime guarantee and DDoS protection.</p>
+            </div>
+            
+            <div class="feature-card">
+                <i class="fas fa-chart-line"></i>
+                <h3>Scalable</h3>
+                <p>Handle from 1 to 1 million requests per second without performance drops.</p>
+            </div>
+            
+            <div class="feature-card">
+                <i class="fas fa-headset"></i>
+                <h3>Premium Support</h3>
+                <p>24/7 dedicated support with average response time of 15 minutes for premium users.</p>
+            </div>
+        </div>
+    </main>
+    
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-logo">Amir API</div>
+            <div class="social-links">
+                <a href="#"><i class="fab fa-github"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-discord"></i></a>
+                <a href="#"><i class="fab fa-linkedin"></i></a>
+            </div>
+        </div>
+        <div class="copyright">
+            &copy; 2023 Amir All in One API. All rights reserved. Premium Version.
+        </div>
+    </footer>
+    
+    <script>
+        function toggleSidebar() {
+            const sidebar = document.getElementById('sidebar');
+            sidebar.classList.toggle('active');
+        }
+        
+        function toggleCategory(header) {
+            const category = header.parentElement;
+            category.classList.toggle('collapsed');
+            
+            // If collapsing, set max-height to current height first
+            if (!category.classList.contains('collapsed')) {
+                const links = category.querySelector('.api-links');
+                links.style.maxHeight = links.scrollHeight + 'px';
+                
+                // After expansion, set to none so it can grow with content
+                setTimeout(() => {
+                    links.style.maxHeight = 'none';
+                }, 300);
+            }
+        }
+        
+        // Initialize categories - first one expanded, others collapsed
+        document.addEventListener('DOMContentLoaded', function() {
+            const categories = document.querySelectorAll('.category');
+            categories.forEach((category, index) => {
+                const links = category.querySelector('.api-links');
+                
+                if (index === 0) {
+                    // First category expanded
+                    links.style.maxHeight = 'none';
+                } else {
+                    // Other categories collapsed
+                    category.classList.add('collapsed');
+                    links.style.maxHeight = '0';
+                }
+            });
+        });
+    </script>
+</body>
 </html>
