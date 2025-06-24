@@ -13,8 +13,7 @@ app.use(express.static(path.join(__dirname, "public")));
 // API Routes
 app.use("/api/simteach", require("./api/simteach"));  // ✅ Mounted here
 // You can add more like:
-app.use("/api/tikdl", require("./api/tikdl"));
-app.use("/api/fbdl", require("./api/fbdl"));
+
 
 // Homepage
 app.get("/", (req, res) => {
