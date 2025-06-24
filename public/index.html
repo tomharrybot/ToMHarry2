@@ -2,29 +2,145 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>All-in-One API</title>
+  <title>Amir All in One API</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Icons + Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/yourkitid.js" crossorigin="anonymous"></script>
   <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+
     body {
-      font-family: sans-serif;
+      display: flex;
+      height: 100vh;
+      background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+      color: #fff;
+    }
+
+    .sidebar {
+      width: 270px;
+      background-color: #1e1e2f;
+      padding: 30px 20px;
+      box-shadow: 2px 0 10px rgba(0, 0, 0, 0.4);
+    }
+
+    .sidebar h2 {
+      font-size: 1.5rem;
+      margin-bottom: 30px;
+      color: #ff4757;
       text-align: center;
-      padding: 50px;
     }
-    h1 {
-      color: #d63031;
+
+    .category {
+      margin-bottom: 30px;
     }
-    a {
-      display: block;
+
+    .category h3 {
+      font-size: 1rem;
+      margin-bottom: 10px;
+      color: #70a1ff;
+      border-bottom: 1px solid #444;
+      padding-bottom: 5px;
+    }
+
+    .api-link {
+      display: flex;
+      align-items: center;
       margin: 10px 0;
-      color: #0984e3;
+      color: #dcdde1;
       text-decoration: none;
+      padding: 8px 10px;
+      border-radius: 8px;
+      transition: all 0.2s ease-in-out;
+    }
+
+    .api-link:hover {
+      background-color: #2f3542;
+      color: #1e90ff;
+    }
+
+    .api-link i {
+      margin-right: 10px;
+    }
+
+    .main {
+      flex: 1;
+      padding: 40px;
+      overflow-y: auto;
+    }
+
+    .main h1 {
+      font-size: 2rem;
+      margin-bottom: 20px;
+      color: #fff;
+    }
+
+    .info-box {
+      background: #2d2d44;
+      padding: 20px;
+      border-radius: 15px;
+      box-shadow: 0 0 15px rgba(255, 255, 255, 0.05);
+      color: #dfe4ea;
+    }
+
+    .info-box pre {
+      color: #7ed6df;
+      font-size: 0.9rem;
+    }
+
+    footer {
+      margin-top: 30px;
+      text-align: center;
+      color: #888;
+      font-size: 0.8rem;
     }
   </style>
 </head>
 <body>
-  <h1>🚀 Welcome to All-in-One API</h1>
-  <p>Available Endpoints:</p>
-  <a href="/api/tikdl">/api/tikdl</a>
-  <a href="/api/fbdl">/api/fbdl</a>
-  <a href="/api/canvas">/api/canvas</a>
+
+  <div class="sidebar">
+    <h2>Amir All in One API</h2>
+
+    <div class="category">
+      <h3><i class="fas fa-brain"></i> Knowledge</h3>
+      <a href="/api/sim?query=hello" class="api-link"><i class="fas fa-robot"></i> Sim Teach</a>
+    </div>
+
+    <div class="category">
+      <h3><i class="fas fa-photo-video"></i> Media</h3>
+      <a href="#" class="api-link"><i class="fas fa-image"></i> Image Fetcher</a>
+      <a href="#" class="api-link"><i class="fas fa-music"></i> Music Info</a>
+    </div>
+
+    <div class="category">
+      <h3><i class="fas fa-download"></i> Downloader</h3>
+      <a href="#" class="api-link"><i class="fas fa-file-download"></i> YouTube Video</a>
+      <a href="#" class="api-link"><i class="fas fa-file-audio"></i> MP3 Audio</a>
+    </div>
+
+    <div class="category">
+      <h3><i class="fas fa-search"></i> Search</h3>
+      <a href="#" class="api-link"><i class="fas fa-search-location"></i> Phone Lookup</a>
+      <a href="#" class="api-link"><i class="fas fa-user-secret"></i> CNIC Info</a>
+    </div>
+  </div>
+
+  <div class="main">
+    <h1>Welcome to Amir All in One API Panel</h1>
+    <div class="info-box">
+      <p>Explore a powerful collection of APIs developed by <strong>Farebi Amir</strong> designed for developers, learners, and power users.</p>
+      <p><strong>Example:</strong></p>
+      <pre>GET /api/sim?query=hello</pre>
+      <pre>GET /api/teach?query=hello&response=world</pre>
+    </div>
+
+    <footer>© 2025 Amir API Hub — Made by Farebi Amir</footer>
+  </div>
+
 </body>
 </html>
