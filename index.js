@@ -1,17 +1,22 @@
 const express = require("express");
 const path = require("path");
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
-// Serve static files from "public" folder
+// Middleware
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+// Static files
 app.use(express.static(path.join(__dirname, "public")));
 
-// Manual route imports
+// API Routes
+app.use("/api/simteach", require("./api/simteach"));  // ✅ Mounted here
+// You can add more like:
 app.use("/api/tikdl", require("./api/tikdl"));
 app.use("/api/fbdl", require("./api/fbdl"));
-app.use("/api/canvas", require("./api/canvas"));
 
-// Homepage - serve index.html
+// Homepage
 app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "index.html"));
 });
