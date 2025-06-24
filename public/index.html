@@ -1,146 +1,175 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html><html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Amir All in One API</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Icons + Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-  <script src="https://kit.fontawesome.com/yourkitid.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-MCZvxxyFhoRe+HUtNJkpM+3J36mWJXflw7QnUZ6M2xKr9FRe6bi3CJvTuDK9PZ4UEZpOrFgzRBVZlKqJhzNHTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <style>
     * {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
-      font-family: 'Poppins', sans-serif;
-    }
+    }body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  height: 100vh;
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  color: #fff;
+}
 
-    body {
-      display: flex;
-      height: 100vh;
-      background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
-      color: #fff;
-    }
+.sidebar {
+  width: 280px;
+  background: #111;
+  padding: 20px;
+  position: fixed;
+  height: 100vh;
+  overflow-y: auto;
+  transition: all 0.3s ease;
+  border-right: 3px solid crimson;
+}
 
-    .sidebar {
-      width: 270px;
-      background-color: #1e1e2f;
-      padding: 30px 20px;
-      box-shadow: 2px 0 10px rgba(0, 0, 0, 0.4);
-    }
+.sidebar h2 {
+  font-size: 1.6rem;
+  margin-bottom: 30px;
+  text-align: center;
+  color: crimson;
+}
 
-    .sidebar h2 {
-      font-size: 1.5rem;
-      margin-bottom: 30px;
-      color: #ff4757;
-      text-align: center;
-    }
+.category {
+  margin-bottom: 25px;
+}
 
-    .category {
-      margin-bottom: 30px;
-    }
+.category h3 {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  border-bottom: 1px solid crimson;
+  padding-bottom: 5px;
+}
 
-    .category h3 {
-      font-size: 1rem;
-      margin-bottom: 10px;
-      color: #70a1ff;
-      border-bottom: 1px solid #444;
-      padding-bottom: 5px;
-    }
+.api-link {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 10px 0;
+  padding: 10px;
+  background: #1e1e1e;
+  border-radius: 10px;
+  transition: 0.3s;
+  text-decoration: none;
+  color: #fff;
+}
 
-    .api-link {
-      display: flex;
-      align-items: center;
-      margin: 10px 0;
-      color: #dcdde1;
-      text-decoration: none;
-      padding: 8px 10px;
-      border-radius: 8px;
-      transition: all 0.2s ease-in-out;
-    }
+.api-link:hover {
+  background: crimson;
+  color: #fff;
+}
 
-    .api-link:hover {
-      background-color: #2f3542;
-      color: #1e90ff;
-    }
+.api-link i {
+  font-size: 1.2rem;
+}
 
-    .api-link i {
-      margin-right: 10px;
-    }
+.content {
+  margin-left: 280px;
+  padding: 40px;
+  flex: 1;
+}
 
-    .main {
-      flex: 1;
-      padding: 40px;
-      overflow-y: auto;
-    }
+.header {
+  background: crimson;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
 
-    .main h1 {
-      font-size: 2rem;
-      margin-bottom: 20px;
-      color: #fff;
-    }
+.header h1 {
+  font-size: 2.2rem;
+  color: #fff;
+  letter-spacing: 2px;
+}
 
-    .info-box {
-      background: #2d2d44;
-      padding: 20px;
-      border-radius: 15px;
-      box-shadow: 0 0 15px rgba(255, 255, 255, 0.05);
-      color: #dfe4ea;
-    }
+@media (max-width: 768px) {
+  .sidebar {
+    left: -100%;
+    position: absolute;
+    z-index: 999;
+  }
 
-    .info-box pre {
-      color: #7ed6df;
-      font-size: 0.9rem;
-    }
+  .sidebar.active {
+    left: 0;
+  }
 
-    footer {
-      margin-top: 30px;
-      text-align: center;
-      color: #888;
-      font-size: 0.8rem;
-    }
+  .content {
+    margin-left: 0;
+    padding: 20px;
+  }
+
+  .toggle-btn {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    background: crimson;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    z-index: 1000;
+    border-radius: 5px;
+  }
+}
+
   </style>
 </head>
 <body>
+  <button class="toggle-btn" onclick="toggleSidebar()"><i class="fas fa-bars"></i></button>  <div class="sidebar" id="sidebar">
+    <h2><i class="fas fa-layer-group"></i> Amir APIs</h2><div class="category">
+  <h3><i class="fas fa-brain"></i> Knowledge</h3>
+  <a href="/api/sim" class="api-link">
+    <i class="fas fa-book-reader"></i>
+    <span>SimTeach</span>
+  </a>
+</div>
 
-  <div class="sidebar">
-    <h2>Amir All in One API</h2>
+<div class="category">
+  <h3><i class="fas fa-photo-video"></i> Media</h3>
+  <a href="/api/canvas" class="api-link">
+    <i class="fas fa-paint-brush"></i>
+    <span>Canvas</span>
+  </a>
+</div>
 
-    <div class="category">
-      <h3><i class="fas fa-brain"></i> Knowledge</h3>
-      <a href="/api/sim?query=hello" class="api-link"><i class="fas fa-robot"></i> Sim Teach</a>
+<div class="category">
+  <h3><i class="fas fa-download"></i> Downloader</h3>
+  <a href="/api/tikdl" class="api-link">
+    <i class="fab fa-tiktok"></i>
+    <span>TikTok Downloader</span>
+  </a>
+  <a href="/api/fbdl" class="api-link">
+    <i class="fab fa-facebook"></i>
+    <span>Facebook Downloader</span>
+  </a>
+</div>
+
+<div class="category">
+  <h3><i class="fas fa-search"></i> Search</h3>
+  <a href="#" class="api-link">
+    <i class="fas fa-search"></i>
+    <span>Coming Soon</span>
+  </a>
+</div>
+
+  </div>  <div class="content">
+    <div class="header">
+      <h1>Welcome to Amir All in One API (Pro Version)</h1>
     </div>
-
-    <div class="category">
-      <h3><i class="fas fa-photo-video"></i> Media</h3>
-      <a href="#" class="api-link"><i class="fas fa-image"></i> Image Fetcher</a>
-      <a href="#" class="api-link"><i class="fas fa-music"></i> Music Info</a>
-    </div>
-
-    <div class="category">
-      <h3><i class="fas fa-download"></i> Downloader</h3>
-      <a href="#" class="api-link"><i class="fas fa-file-download"></i> YouTube Video</a>
-      <a href="#" class="api-link"><i class="fas fa-file-audio"></i> MP3 Audio</a>
-    </div>
-
-    <div class="category">
-      <h3><i class="fas fa-search"></i> Search</h3>
-      <a href="#" class="api-link"><i class="fas fa-search-location"></i> Phone Lookup</a>
-      <a href="#" class="api-link"><i class="fas fa-user-secret"></i> CNIC Info</a>
-    </div>
-  </div>
-
-  <div class="main">
-    <h1>Welcome to Amir All in One API Panel</h1>
-    <div class="info-box">
-      <p>Explore a powerful collection of APIs developed by <strong>Farebi Amir</strong> designed for developers, learners, and power users.</p>
-      <p><strong>Example:</strong></p>
-      <pre>GET /api/sim?query=hello</pre>
-      <pre>GET /api/teach?query=hello&response=world</pre>
-    </div>
-
-    <footer>© 2025 Amir API Hub — Made by Farebi Amir</footer>
-  </div>
-
-</body>
+    <p style="margin-top: 30px; font-size: 1.2rem; line-height: 1.6;">
+      Explore all available APIs categorized for Knowledge, Media, Downloaders and more.
+      Click on any API name in the sidebar to go directly to its endpoint.
+    </p>
+  </div>  <script>
+    function toggleSidebar() {
+      const sidebar = document.getElementById('sidebar');
+      sidebar.classList.toggle('active');
+    }
+  </script></body>
 </html>
