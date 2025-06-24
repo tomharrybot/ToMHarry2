@@ -5,7 +5,7 @@ const fs = require("fs");
 const path = require("path");
 
 const __path = process.cwd();
-const tmp = path.join(__path, "/tmp/canvas_tmp");
+const tmp = path.join(__path, "/public/canvas_tmp");
 const example_profile = "https://i.ibb.co/G5mJZxs/rin.jpg";
 const example_icon = "https://i.ibb.co/G5mJZxs/rin.jpg";
 const example_bg = "https://i.ibb.co/4YBNyvP/images-76.jpg";
