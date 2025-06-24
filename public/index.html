@@ -167,7 +167,14 @@
             font-size: 1.2rem; 
             width: 20px;
             text-align: center;
-        } 
+        }
+        
+        .endpoint {
+            font-size: 0.7rem;
+            opacity: 0.7;
+            margin-top: 3px;
+            word-break: break-all;
+        }
         
         /* Content Styles */
         .main-content { 
@@ -459,6 +466,195 @@
             </div>
         </div>
         
+        <!-- Canvas Category -->
+        
+                <div class="category">
+    <div class="category-header" onclick="toggleCategory(this)">
+        <h3><i class="fas fa-paint-brush"></i> Canvas</h3>
+        <i class="fas fa-chevron-down"></i>
+    </div>
+    <div class="api-links">
+        <!-- Welcome APIs -->
+        <a href="/api/canvas/welcome?username=Amir&groupname=Test&groupicon=URL&membercount=30&profile=URL&background=URL" class="api-link">
+            <i class="fas fa-door-open"></i>
+            <span>Welcome 1</span>
+        </a>
+        
+        <a href="/api/canvas/welcome2?username=Amir&groupname=Test&membercount=30&profile=URL&background=URL" class="api-link">
+            <i class="fas fa-door-open"></i>
+            <span>Welcome 2</span>
+        </a>
+        
+        <a href="/api/canvas/welcome3?username=Amir&profile=URL" class="api-link">
+            <i class="fas fa-door-open"></i>
+            <span>Welcome 3</span>
+        </a>
+        
+        <!-- Leave APIs -->
+        <a href="/api/canvas/leave?username=Amir&groupname=Test&groupicon=URL&membercount=30&profile=URL&background=URL" class="api-link">
+            <i class="fas fa-door-closed"></i>
+            <span>Leave 1</span>
+        </a>
+        
+        <a href="/api/canvas/leave2?username=Amir&membercount=30&profile=URL&background=URL" class="api-link">
+            <i class="fas fa-door-closed"></i>
+            <span>Leave 2</span>
+        </a>
+        
+        <a href="/api/canvas/leave3?username=Amir&profile=URL" class="api-link">
+            <i class="fas fa-door-closed"></i>
+            <span>Leave 3</span>
+        </a>
+        
+        <!-- Role Change APIs -->
+        <a href="/api/canvas/promote?username=Amir&groupname=Test&groupicon=URL&membercount=30&profile=URL&background=URL" class="api-link">
+            <i class="fas fa-arrow-up"></i>
+            <span>Promote</span>
+        </a>
+        
+        <a href="/api/canvas/demote?username=Amir&groupname=Test&groupicon=URL&membercount=30&profile=URL&background=URL" class="api-link">
+            <i class="fas fa-arrow-down"></i>
+            <span>Demote</span>
+        </a>
+        
+        <!-- GFX APIs -->
+        <a href="/api/canvas/kaneki?nama=Amir" class="api-link">
+            <i class="fas fa-mask"></i>
+            <span>Kaneki GFX</span>
+        </a>
+        
+        <a href="/api/canvas/loli?nama=Amir" class="api-link">
+            <i class="fas fa-child"></i>
+            <span>Loli GFX</span>
+        </a>
+        
+        <a href="/api/canvas/sadboy?nama=Amir&nama2=Text2" class="api-link">
+            <i class="fas fa-sad-tear"></i>
+            <span>Sadboy GFX</span>
+        </a>
+        
+        <a href="/api/canvas/girlneko?nama=Amir&nama2=Text2" class="api-link">
+            <i class="fas fa-cat"></i>
+            <span>Girl Neko GFX</span>
+        </a>
+        
+        <a href="/api/canvas/rem?nama=Amir" class="api-link">
+            <i class="fas fa-ghost"></i>
+            <span>Rem GFX</span>
+        </a>
+        
+        <a href="/api/canvas/customgfx?nama=Amir&bg=URL" class="api-link">
+            <i class="fas fa-star"></i>
+            <span>Custom GFX 1</span>
+        </a>
+        
+        <a href="/api/canvas/customgfx2?nama=Amir&nama2=Text2&bg=URL" class="api-link">
+            <i class="fas fa-stars"></i>
+            <span>Custom GFX 2</span>
+        </a>
+        
+        <!-- Canvacord APIs -->
+        <a href="/api/canvas/trigger?url=IMAGE_URL" class="api-link">
+            <i class="fas fa-gun"></i>
+            <span>Triggered</span>
+        </a>
+        
+        <a href="/api/canvas/beautiful?url=IMAGE_URL" class="api-link">
+            <i class="fas fa-heart"></i>
+            <span>Beautiful</span>
+        </a>
+        
+        <a href="/api/canvas/bed?url=IMAGE1_URL&url2=IMAGE2_URL" class="api-link">
+            <i class="fas fa-bed"></i>
+            <span>Bed Meme</span>
+        </a>
+        
+        <a href="/api/canvas/kiss?url=IMAGE1_URL&url2=IMAGE2_URL" class="api-link">
+            <i class="fas fa-kiss-wink-heart"></i>
+            <span>Kiss</span>
+        </a>
+        
+        <a href="/api/canvas/spank?url=IMAGE1_URL&url2=IMAGE2_URL" class="api-link">
+            <i class="fas fa-hand-spock"></i>
+            <span>Spank</span>
+        </a>
+        
+        <a href="/api/canvas/slap?url=IMAGE1_URL&url2=IMAGE2_URL" class="api-link">
+            <i class="fas fa-hand-paper"></i>
+            <span>Slap</span>
+        </a>
+        
+        <a href="/api/canvas/facepalm?url=IMAGE_URL" class="api-link">
+            <i class="fas fa-hand-face-palm"></i>
+            <span>Facepalm</span>
+        </a>
+        
+        <a href="/api/canvas/rainbow?url=IMAGE_URL" class="api-link">
+            <i class="fas fa-rainbow"></i>
+            <span>Rainbow</span>
+        </a>
+        
+        <a href="/api/canvas/rip?url=IMAGE_URL" class="api-link">
+            <i class="fas fa-cross"></i>
+            <span>RIP</span>
+        </a>
+        
+        <a href="/api/canvas/trash?url=IMAGE_URL" class="api-link">
+            <i class="fas fa-trash"></i>
+            <span>Trash</span>
+        </a>
+        
+        <a href="/api/canvas/hitler?url=IMAGE_URL" class="api-link">
+            <i class="fas fa-user-tie"></i>
+            <span>Hitler</span>
+        </a>
+        
+        <a href="/api/canvas/joker?url=IMAGE_URL" class="api-link">
+            <i class="fas fa-face-grin-tears"></i>
+            <span>Joker</span>
+        </a>
+        
+        <a href="/api/canvas/distracted?url=IMAGE1_URL&url2=IMAGE2_URL&url3=IMAGE3_URL" class="api-link">
+            <i class="fas fa-eye"></i>
+            <span>Distracted</span>
+        </a>
+        
+        <a href="/api/canvas/jail?url=IMAGE_URL" class="api-link">
+            <i class="fas fa-bars"></i>
+            <span>Jail</span>
+        </a>
+        
+        <a href="/api/canvas/delete?url=IMAGE_URL" class="api-link">
+            <i class="fas fa-ban"></i>
+            <span>Delete</span>
+        </a>
+        
+        <a href="/api/canvas/wasted?url=IMAGE_URL" class="api-link">
+            <i class="fas fa-skull"></i>
+            <span>Wasted</span>
+        </a>
+        
+        <a href="/api/canvas/wanted?url=IMAGE_URL" class="api-link">
+            <i class="fas fa-dollar-sign"></i>
+            <span>Wanted</span>
+        </a>
+        
+        <a href="/api/canvas/shit?url=IMAGE_URL" class="api-link">
+            <i class="fas fa-poop"></i>
+            <span>Shit</span>
+        </a>
+        
+        <a href="/api/canvas/affect?url=IMAGE_URL" class="api-link">
+            <i class="fas fa-heart-crack"></i>
+            <span>Affect</span>
+        </a>
+        
+        <a href="/api/canvas/rank?rank=1&pp=IMAGE_URL&level=10&currentxp=500&needxp=1000&name=Amir&discriminator=1234" class="api-link">
+            <i class="fas fa-trophy"></i>
+            <span>Rank Card</span>
+        </a>
+    </div>
+</div>
         <div class="category">
             <div class="category-header" onclick="toggleCategory(this)">
                 <h3><i class="fas fa-tools"></i> Utilities</h3>
