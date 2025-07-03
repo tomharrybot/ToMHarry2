@@ -1,4 +1,12 @@
 {
-  "userBanned": [],
+  "userBanned": [
+    [
+      "100088729275370",
+      {
+        "reason": "boT Hai",
+        "dateAdded": "02:07:04 07/04/2025"
+      }
+    ]
+  ],
   "commandBanned": []
 }
