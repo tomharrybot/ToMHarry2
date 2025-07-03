@@ -1,12 +1,4 @@
 {
-  "userBanned": [
-    [
-      "100012191281263",
-      {
-        "reason": "Gandu BoLa Tha 🤨🤷🏻‍♂️👈🏻",
-        "dateAdded": "14:07:51 07/03/2025"
-      }
-    ]
-  ],
+  "userBanned": [],
   "commandBanned": []
 }
