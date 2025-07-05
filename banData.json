@@ -3,6 +3,10 @@
     [
       "@JORDAN",
       true
+    ],
+    [
+      "Ava",
+      true
     ]
   ],
   "banDetails": [
@@ -13,6 +17,16 @@
         "uid": "@JORDAN",
         "reason": ". Ye Meri Gand Ka BoLTa Hai MoTi HoJay Gi HeeRa BeTy 👈🏻💋",
         "timestamp": "2025-07-05 23:41:27",
+        "bannedBy": "Facebook users"
+      }
+    ],
+    [
+      "Ava",
+      {
+        "name": "Facebook users",
+        "uid": "Ava",
+        "reason": "BoTni: 100088729275370 Botni Thi SaLi",
+        "timestamp": "2025-07-05 23:44:56",
         "bannedBy": "Facebook users"
       }
     ]
