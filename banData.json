@@ -7,6 +7,10 @@
     [
       "Ava",
       true
+    ],
+    [
+      "100012191281263",
+      true
     ]
   ],
   "banDetails": [
@@ -28,6 +32,16 @@
         "reason": "BoTni: 100088729275370 Botni Thi SaLi",
         "timestamp": "2025-07-05 23:44:56",
         "bannedBy": "Facebook users"
+      }
+    ],
+    [
+      "100012191281263",
+      {
+        "name": "Facebook users",
+        "uid": "100012191281263",
+        "reason": "Auto-ban: Spam detected",
+        "timestamp": "2025-07-05 23:45:18",
+        "bannedBy": "SYSTEM"
       }
     ]
   ]
