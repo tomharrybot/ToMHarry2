@@ -1,4 +1,20 @@
 {
-  "userBanned": [],
-  "banDetails": []
+  "userBanned": [
+    [
+      "@JORDAN",
+      true
+    ]
+  ],
+  "banDetails": [
+    [
+      "@JORDAN",
+      {
+        "name": "Facebook users",
+        "uid": "@JORDAN",
+        "reason": ". Ye Meri Gand Ka BoLTa Hai MoTi HoJay Gi HeeRa BeTy 👈🏻💋",
+        "timestamp": "2025-07-05 23:41:27",
+        "bannedBy": "Facebook users"
+      }
+    ]
+  ]
 }
