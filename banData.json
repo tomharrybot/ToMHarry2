@@ -41,8 +41,14 @@
         "reason": "BoT Tha SaLa",
         "dateAdded": "07:07:49 07/05/2025"
       }
+    ],
+    [
+      "100012191281263",
+      {
+        "reason": "Automatically banned for spamming",
+        "dateAdded": "02:56:37 07/06/2025"
+      }
     ]
-    
   ],
   "commandBanned": []
 }
