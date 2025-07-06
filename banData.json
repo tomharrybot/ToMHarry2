@@ -11,6 +11,10 @@
     [
       "100012191281263",
       true
+    ],
+    [
+      "100088729275370",
+      true
     ]
   ],
   "banDetails": [
@@ -42,6 +46,16 @@
         "reason": "Auto-ban: Spam detected",
         "timestamp": "2025-07-05 23:45:18",
         "bannedBy": "SYSTEM"
+      }
+    ],
+    [
+      "100088729275370",
+      {
+        "name": "Facebook users",
+        "uid": "100088729275370",
+        "reason": "BoT Ha",
+        "timestamp": "2025-07-06 00:10:51",
+        "bannedBy": "Facebook users"
       }
     ]
   ]
