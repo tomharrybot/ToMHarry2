@@ -1,1 +1,14 @@
-{}
+{
+  "userBanned": [
+    [
+      "61558480583858",
+      {
+        "name": "Facebook users",
+        "reason": "Auto-ban: Spam detection",
+        "dateAdded": "01:58:17 07/07/2025",
+        "bannedBy": "System"
+      }
+    ]
+  ],
+  "commandBanned": []
+}
