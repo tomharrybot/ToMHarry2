@@ -10,6 +10,17 @@
         "bannedBy": "The'w FareBii'w",
         "type": "manual"
       }
+    ],
+    [
+      "100063415336244",
+      {
+        "name": "Ava BoTni 󱢏",
+        "userId": "100063415336244",
+        "time": "11:44:33 07/07/2025",
+        "reason": "BoTni 󱢏 GanDuuu",
+        "bannedBy": "The'w FareBii'w",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
@@ -1768,6 +1779,10 @@
     [
       "100088173076941",
       "Tom Harry"
+    ],
+    [
+      "100063415336244",
+      "Ava BoTni 󱢏"
     ]
   ]
 }
