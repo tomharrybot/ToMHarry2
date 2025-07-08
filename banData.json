@@ -21,6 +21,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61576782731042",
+      {
+        "name": "K0J4 B0T",
+        "userId": "61576782731042",
+        "time": "18:22:36 08/07/2025",
+        "reason": "B0T",
+        "bannedBy": "The'w FareBii'w",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
@@ -6523,6 +6534,14 @@
     [
       "100025862943751",
       "Facebook User"
+    ],
+    [
+      "100085887612762",
+      "ᏗᏒᏰᏗᏰ ᏒᏗᏠᏗ"
+    ],
+    [
+      "61576782731042",
+      "K0J4 B0T"
     ]
   ]
 }
