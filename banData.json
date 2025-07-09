@@ -109,6 +109,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61556299213697",
+      {
+        "name": "Zameer Rajput",
+        "userId": "61556299213697",
+        "time": "13:18:39 09/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -8691,6 +8702,10 @@
     [
       "61569346856820",
       "The'w Punjaban"
+    ],
+    [
+      "61556299213697",
+      "Zameer Rajput"
     ]
   ]
 }
