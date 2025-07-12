@@ -1,45 +1,13 @@
 {
   "threadBanned": [
     [
-      "29898541553127692",
+      "7375079455889949",
       {
-        "reason": "[🌸] Kick bot freely, without permission 🚫",
-        "dateAdded": "8/07/2025 10:38:11"
-      }
-    ],
-    [
-      "23890003693935320",
-      {
-        "reason": "[🌸] Kick bot freely, without permission 🚫",
-        "dateAdded": "8/07/2025 20:30:18"
-      }
-    ],
-    [
-      "24280054584933390",
-      {
-        "reason": "[🌸] Kick bot freely, without permission 🚫",
-        "dateAdded": "8/07/2025 23:25:24"
-      }
-    ],
-    [
-      "25458969270383276",
-      {
-        "reason": "[🌸] Kick bot freely, without permission 🚫",
-        "dateAdded": "8/07/2025 23:41:58"
-      }
-    ],
-    [
-      "9897657650330460",
-      {
-        "reason": "[🌸] Kick bot freely, without permission 🚫",
-        "dateAdded": "8/07/2025 15:47:27"
-      }
-    ],
-    [
-      "9066322456799880",
-      {
-        "reason": "[🌸] Kick bot freely, without permission 🚫",
-        "dateAdded": "8/07/2025 16:34:59"
+        "name": "NEW PACKAGE 📦",
+        "threadID": "7375079455889949",
+        "time": "07:07:25 12/07/2025",
+        "reason": "No reason provided",
+        "bannedBy": "Unknown"
       }
     ]
   ],
