@@ -10,6 +10,17 @@
         "bannedBy": "The'w FareBii'w",
         "type": "manual"
       }
+    ],
+    [
+      "100090839902065",
+      {
+        "name": "Ben Stokes",
+        "userId": "100090839902065",
+        "time": "15:51:25 13/07/2025",
+        "reason": "Stokes",
+        "bannedBy": "The'w FareBii'w",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
@@ -20,6 +31,10 @@
     [
       "100000856538718",
       "The'w FareBii'w"
+    ],
+    [
+      "100090839902065",
+      "Ben Stokes"
     ]
   ]
 }
