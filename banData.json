@@ -65,6 +65,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61564964540058",
+      {
+        "name": "Shahzadi Shahzadi",
+        "userId": "61564964540058",
+        "time": "11:00:56 18/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -10319,6 +10330,10 @@
     [
       "100093197634408",
       "Sheokand Harshita"
+    ],
+    [
+      "61574076336990",
+      "جـﹿٰٰٰٖٖٖﹿٰٰٖٖٜ۬ﹻـٹ انسـُـُـُـُـُایـِـِڈ جـﹿٰٰٰٖٖٖﹿٰٰٖٖٜ۬ﹻـٹ انسـُـُـُـُـُایـِـِڈ"
     ]
   ]
 }
