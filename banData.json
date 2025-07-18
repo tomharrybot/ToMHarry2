@@ -43,6 +43,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61564964540058",
+      {
+        "name": "Shahzadi Shahzadi",
+        "userId": "61564964540058",
+        "time": "12:10:49 18/07/2025",
+        "reason": "No reason provided",
+        "bannedBy": "The'w FareBii'w",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
