@@ -54,6 +54,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61551361390134",
+      {
+        "name": "Yaram Kazmi",
+        "userId": "61551361390134",
+        "time": "01:01:48 20/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -807,7 +818,7 @@
     ],
     [
       "61576351385679",
-      "Shrilu"
+      "Manshi Singh"
     ],
     [
       "61576752756594",
@@ -5200,6 +5211,18 @@
     [
       "100047090351806",
       "Fareed Shk"
+    ],
+    [
+      "61576942475657",
+      "Fɛɛlıŋglɛss Pııɛw"
+    ],
+    [
+      "100074511785444",
+      "ᎷᏗᏕᎧᎧᎷ ᏦᏬᏒᏒᎥ"
+    ],
+    [
+      "61560075630277",
+      "Laila Sindhi"
     ]
   ]
 }
