@@ -109,6 +109,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61577571102664",
+      {
+        "name": "Ashu Mano",
+        "userId": "61577571102664",
+        "time": "12:10:13 19/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -12391,6 +12402,14 @@
     [
       "100095046204075",
       "Yaqoob Asad"
+    ],
+    [
+      "61575018287935",
+      "خکلی جانان"
+    ],
+    [
+      "61578007872405",
+      "Hassan Rajput"
     ]
   ]
 }
