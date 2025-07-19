@@ -1,12 +1,4 @@
 {
-  "threadBanned": [
-    [
-      "23954187500912720",
-      {
-        "reason": "[🌸] Kick bot freely, without permission 🚫",
-        "dateAdded": "19/07/2025 22:20:54"
-      }
-    ]
-  ],
+  "threadBanned": [],
   "commandBanned": []
 }
