@@ -76,6 +76,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61555980660526",
+      {
+        "name": "ادھورا عشق",
+        "userId": "61555980660526",
+        "time": "22:16:22 20/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -7370,6 +7381,18 @@
     [
       "100087929838130",
       "Sonia N Khan"
+    ],
+    [
+      "61578270358865",
+      "Mare Billi"
+    ],
+    [
+      "61578742134046",
+      "فـراڈن فـراڈن"
+    ],
+    [
+      "61578774142370",
+      "Կշօ Յշօ"
     ]
   ]
 }
