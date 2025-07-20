@@ -87,6 +87,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61578010260136",
+      {
+        "name": "Yourz Ruii",
+        "userId": "61578010260136",
+        "time": "22:59:07 20/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -7393,6 +7404,10 @@
     [
       "61578774142370",
       "Կշօ Յշօ"
+    ],
+    [
+      "61575044826496",
+      "S　A　H　I　L"
     ]
   ]
 }
