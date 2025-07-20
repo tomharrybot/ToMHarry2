@@ -32,6 +32,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100085281381592",
+      {
+        "name": "समीर झारखंडी",
+        "userId": "100085281381592",
+        "time": "14:44:00 20/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
