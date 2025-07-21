@@ -186,6 +186,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61561442977502",
+      {
+        "name": "مــــّْـــّْعـــــّْـــصوم شَہــــَــْــزادَی",
+        "userId": "61561442977502",
+        "time": "23:33:59 21/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -8448,6 +8459,10 @@
     [
       "61578043441464",
       "Fåtîmæ Rajpūt"
+    ],
+    [
+      "61554228115118",
+      "Ali Ali Ali Khan"
     ]
   ]
 }
