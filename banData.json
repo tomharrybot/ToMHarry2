@@ -32,6 +32,17 @@
         "bannedBy": "Jordan Xhk",
         "type": "manual"
       }
+    ],
+    [
+      "61577865842150",
+      {
+        "name": "Dangers Fyter",
+        "userId": "61577865842150",
+        "time": "19:49:45 22/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -2330,6 +2341,14 @@
     [
       "100088173076941",
       "Tom Harry"
+    ],
+    [
+      "61577865842150",
+      "Dangers Fyter"
+    ],
+    [
+      "100062840012131",
+      "Yameen Jan"
     ]
   ]
 }
