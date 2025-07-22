@@ -21,6 +21,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100088173076941",
+      {
+        "name": "Tom Harry",
+        "userId": "100088173076941",
+        "time": "19:44:18 22/07/2025",
+        "reason": "Harry",
+        "bannedBy": "Jordan Xhk",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
@@ -2315,6 +2326,10 @@
     [
       "100030556241837",
       "Mirha Paree"
+    ],
+    [
+      "100088173076941",
+      "Tom Harry"
     ]
   ]
 }
