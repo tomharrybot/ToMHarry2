@@ -65,6 +65,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100063415336244",
+      {
+        "name": "Ava BoTni 󱢏",
+        "userId": "100063415336244",
+        "time": "03:55:28 24/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -7371,6 +7382,14 @@
     [
       "100090839902065",
       "Ben Stokes"
+    ],
+    [
+      "100018935727297",
+      "Arham Khan"
+    ],
+    [
+      "100063415336244",
+      "Ava BoTni 󱢏"
     ]
   ]
 }
