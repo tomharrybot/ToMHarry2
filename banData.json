@@ -76,6 +76,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61556235951536",
+      {
+        "name": "Tom Hun Yw'r",
+        "userId": "61556235951536",
+        "time": "05:00:37 24/07/2025",
+        "reason": "Hun Yw'r",
+        "bannedBy": "Jordan Xhk",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
