@@ -274,6 +274,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61576136460013",
+      {
+        "name": "Fatima CH",
+        "userId": "61576136460013",
+        "time": "22:16:16 25/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
