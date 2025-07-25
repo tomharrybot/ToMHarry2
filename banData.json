@@ -153,6 +153,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100095101273916",
+      {
+        "name": "Mian Brand",
+        "userId": "100095101273916",
+        "time": "13:14:22 25/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -6014,7 +6025,7 @@
     ],
     [
       "100001721265051",
-      "HASSHID MUGHAL 🤍🌝"
+      "Facebook user"
     ],
     [
       "100003540788292",
