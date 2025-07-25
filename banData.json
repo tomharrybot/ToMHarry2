@@ -186,6 +186,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100087418763473",
+      {
+        "name": "Shur'up Baliiw",
+        "userId": "100087418763473",
+        "time": "17:41:02 25/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -11584,6 +11595,18 @@
     [
       "100095041321496",
       "Itzs Anam"
+    ],
+    [
+      "100083163189776",
+      "Muskan Doll"
+    ],
+    [
+      "100092151807859",
+      "Zoya Hashmi"
+    ],
+    [
+      "61555370904129",
+      "Laiba Ali"
     ]
   ]
 }
