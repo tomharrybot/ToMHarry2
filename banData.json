@@ -263,6 +263,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100033096099792",
+      {
+        "name": "Mehar Ali Tayyab",
+        "userId": "100033096099792",
+        "time": "21:16:27 25/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -12785,6 +12796,10 @@
     [
       "100094208583114",
       "Mehak Jan"
+    ],
+    [
+      "61574043990933",
+      "Masoom Bacha"
     ]
   ]
 }
