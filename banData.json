@@ -351,6 +351,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100052083094164",
+      {
+        "name": "Mugheera Malik",
+        "userId": "100052083094164",
+        "time": "18:02:35 26/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -13033,6 +13044,58 @@
     [
       "100008391217992",
       "Pagal Larki"
+    ],
+    [
+      "61578390340451",
+      "Eliŋa W Kaŋwal"
+    ],
+    [
+      "61565281016768",
+      "Saba Noor Saba Noor"
+    ],
+    [
+      "61574082245847",
+      "Sabeha Baloch"
+    ],
+    [
+      "61575323385532",
+      "Malik Anees"
+    ],
+    [
+      "100060659344391",
+      "Oye Janu"
+    ],
+    [
+      "61578324212124",
+      "شان رائٹس"
+    ],
+    [
+      "61556850028360",
+      "Distributure'w Fankar"
+    ],
+    [
+      "61576612586363",
+      "ɗɘvɩɭ ĸɩŋʛ ɩŋ sɩɗɘ"
+    ],
+    [
+      "61578376812196",
+      "Sanam Khan"
+    ],
+    [
+      "100080650011541",
+      "Tħễ Dễviĺ Iňšiȡễ"
+    ],
+    [
+      "100081462141867",
+      "Fʀee Hʋŋ Ƴʌwʀ"
+    ],
+    [
+      "100009471018276",
+      "Hajib Khan"
+    ],
+    [
+      "61566987578679",
+      "Masum Larki"
     ]
   ]
 }
