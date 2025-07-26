@@ -406,6 +406,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100078368293248",
+      {
+        "name": "Naam'Bʌtʌ-DıyʌTo Pahchʌn'Burʌ Maan Jayegı",
+        "userId": "100078368293248",
+        "time": "20:53:45 26/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -14380,6 +14391,38 @@
     [
       "100090956225332",
       "Amna Khan Khan"
+    ],
+    [
+      "100085046388503",
+      "Mānō Bīllī"
+    ],
+    [
+      "61554184517604",
+      "Masoom Prince"
+    ],
+    [
+      "100069213302240",
+      "Samii Khan"
+    ],
+    [
+      "100089506884216",
+      "Jerry Oye"
+    ],
+    [
+      "100093037784543",
+      "Haseeb King Mughal"
+    ],
+    [
+      "100064423819161",
+      "Talah Ahmed"
+    ],
+    [
+      "61574099061082",
+      "Shehzadi Duaa"
+    ],
+    [
+      "100090352392170",
+      "Sufyan Randhawa"
     ]
   ]
 }
