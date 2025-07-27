@@ -10,6 +10,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61557378964978",
+      {
+        "name": "Lɔɼd Hashu 😈",
+        "userId": "61557378964978",
+        "time": "13:07:18 27/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -1524,6 +1535,22 @@
     [
       "61565645461020",
       "Ali Hassan Jaan"
+    ],
+    [
+      "100045360977057",
+      "Kkc Mishra Mishra"
+    ],
+    [
+      "100036293331104",
+      "Kartik Krishna"
+    ],
+    [
+      "100011413154309",
+      "माखणचोर कन्हैया नैतिक पाटील"
+    ],
+    [
+      "100021261377630",
+      "Ali Badshah"
     ]
   ]
 }
