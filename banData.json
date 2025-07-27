@@ -10,6 +10,17 @@
         "bannedBy": "The'w FareBii'w",
         "type": "manual"
       }
+    ],
+    [
+      "61572902680251",
+      {
+        "name": "Kārtā-ħǖ Mƛîƞ-rāậj Dīlǿǿƞ’pḗ",
+        "userId": "61572902680251",
+        "time": "23:43:03 27/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -20,6 +31,50 @@
     [
       "100000856538718",
       "The'w FareBii'w"
+    ],
+    [
+      "61572902680251",
+      "Kārtā-ħǖ Mƛîƞ-rāậj Dīlǿǿƞ’pḗ"
+    ],
+    [
+      "61571550733665",
+      "Rajpoot Sarkar"
+    ],
+    [
+      "100036293331104",
+      "Kartik Krishna"
+    ],
+    [
+      "610265515",
+      "Sushil Kumar Yadav"
+    ],
+    [
+      "100012191281263",
+      "Jordan Xhk"
+    ],
+    [
+      "61565758403187",
+      "Awantypist Awantypist"
+    ],
+    [
+      "100008223421626",
+      "Rahul Srivastav Lala"
+    ],
+    [
+      "61556235951536",
+      "Tom Hun Yw'r"
+    ],
+    [
+      "100090839902065",
+      "Ben Stokes"
+    ],
+    [
+      "61574066761106",
+      "Zeeshan Khan"
+    ],
+    [
+      "61578132549572",
+      "Haniya Hani"
     ]
   ]
 }
