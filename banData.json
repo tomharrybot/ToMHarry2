@@ -87,6 +87,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100034736284769",
+      {
+        "name": "Cʜocoɭʌtƴ Båcha",
+        "userId": "100034736284769",
+        "time": "23:36:39 27/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -11241,6 +11252,10 @@
     [
       "61572902680251",
       "Kārtā-ħǖ Mƛîƞ-rāậj Dīlǿǿƞ’pḗ"
+    ],
+    [
+      "61575903946246",
+      "Bigra Nawabzaada"
     ]
   ]
 }
