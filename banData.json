@@ -65,6 +65,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100084175316194",
+      {
+        "name": "سندس پری",
+        "userId": "100084175316194",
+        "time": "23:16:09 27/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -11179,6 +11190,30 @@
     [
       "100003772613184",
       "Kashif Hussain"
+    ],
+    [
+      "61573984911367",
+      "Gujjar Zadi"
+    ],
+    [
+      "61556394325855",
+      "Çhiçkû O Õ"
+    ],
+    [
+      "61550114571938",
+      "Hayat Ali"
+    ],
+    [
+      "61572981533411",
+      "Syco Rajpoot"
+    ],
+    [
+      "61578242434334",
+      "Shami Rajpoot"
+    ],
+    [
+      "61561920094633",
+      "Abeera Baloch"
     ]
   ]
 }
