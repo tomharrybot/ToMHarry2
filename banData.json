@@ -186,6 +186,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61575181553788",
+      {
+        "name": "Brand Ali",
+        "userId": "61575181553788",
+        "time": "23:42:32 28/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -7547,7 +7558,7 @@
     ],
     [
       "61576779333885",
-      "Manju Kumari"
+      "Facebook user"
     ],
     [
       "61576888858340",
@@ -9720,6 +9731,14 @@
     [
       "61576279000385",
       "Àqsa Mughal"
+    ],
+    [
+      "61576308806383",
+      "Chocolaty Queen "
+    ],
+    [
+      "100090524156487",
+      "LoFara InJlai"
     ]
   ]
 }
