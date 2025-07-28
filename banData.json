@@ -131,6 +131,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61576146281044",
+      {
+        "name": "شہنشاہ اےدل",
+        "userId": "61576146281044",
+        "time": "14:28:04 28/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -6009,6 +6020,10 @@
     [
       "100094562449491",
       "جنت کی ہور"
+    ],
+    [
+      "61567032004255",
+      "Mano Mano"
     ]
   ]
 }
