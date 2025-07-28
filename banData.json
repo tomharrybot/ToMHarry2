@@ -197,6 +197,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61578058273745",
+      {
+        "name": "Malaika Hu Yar",
+        "userId": "61578058273745",
+        "time": "23:47:02 28/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -9739,6 +9750,10 @@
     [
       "100090524156487",
       "LoFara InJlai"
+    ],
+    [
+      "100070624471373",
+      "Syco Larka Larka"
     ]
   ]
 }
