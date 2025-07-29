@@ -252,6 +252,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61564203122290",
+      {
+        "name": "Malik Rania",
+        "userId": "61564203122290",
+        "time": "12:58:41 29/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -925,7 +936,7 @@
     ],
     [
       "100007792156944",
-      "AnUrag MisHra"
+      "Facebook user"
     ],
     [
       "100041723868383",
@@ -12506,6 +12517,10 @@
     [
       "100055863441518",
       "Zoya Khan"
+    ],
+    [
+      "61573845710799",
+      "Wʜɣ Jɒɳɩ"
     ]
   ]
 }
