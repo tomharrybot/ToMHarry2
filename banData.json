@@ -318,6 +318,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100083877040610",
+      {
+        "name": "کـــــیـــــوٹ شـــــا دانـــــی بـــــابـــــو",
+        "userId": "100083877040610",
+        "time": "17:22:20 29/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -13848,6 +13859,14 @@
     [
       "61559052257635",
       "Ackerman Levi"
+    ],
+    [
+      "100091564766648",
+      "Maruf Sarkar"
+    ],
+    [
+      "100072423856167",
+      "Ijaz Riaz"
     ]
   ]
 }
