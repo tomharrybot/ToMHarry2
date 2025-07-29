@@ -274,6 +274,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61555138686333",
+      {
+        "name": "Asadullah Sattar",
+        "userId": "61555138686333",
+        "time": "15:32:16 29/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -12896,6 +12907,42 @@
     [
       "100093615984845",
       "Masoom King"
+    ],
+    [
+      "100092835613846",
+      "Mustafa Wright"
+    ],
+    [
+      "61578600103149",
+      "Maham Fatima"
+    ],
+    [
+      "100076911547602",
+      "Ali Hun Yaar"
+    ],
+    [
+      "100015034274329",
+      "محمد عقیل"
+    ],
+    [
+      "100084282201452",
+      "Abdullah Khan"
+    ],
+    [
+      "100072931115057",
+      "Zidi Pahtan"
+    ],
+    [
+      "100000617497921",
+      "Saqi Hun Yawr"
+    ],
+    [
+      "100082623897764",
+      "Itx Fatima"
+    ],
+    [
+      "61553010509110",
+      "Sardar Khan"
     ]
   ]
 }
