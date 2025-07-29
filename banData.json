@@ -340,6 +340,17 @@
         "bannedBy": "The'w FareBii'w",
         "type": "manual"
       }
+    ],
+    [
+      "61572873514100",
+      {
+        "name": "Šhåāñ Bøt",
+        "userId": "61572873514100",
+        "time": "20:18:53 29/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -13878,6 +13889,34 @@
     [
       "100072423856167",
       "Ijaz Riaz"
+    ],
+    [
+      "100085055888093",
+      "Mohammed Faiz"
+    ],
+    [
+      "61556078561806",
+      "Bisma Nori"
+    ],
+    [
+      "100091464421099",
+      "Jameel Ahmed"
+    ],
+    [
+      "61564525163738",
+      "Zoya Pesho"
+    ],
+    [
+      "61565067309249",
+      "Ahsan Khan"
+    ],
+    [
+      "61572873514100",
+      "Šhåāñ Bøt"
+    ],
+    [
+      "100025067407143",
+      "Hadi Jan"
     ]
   ]
 }
