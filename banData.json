@@ -329,6 +329,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100074519186025",
+      {
+        "name": "Y UR I",
+        "userId": "100074519186025",
+        "time": "18:27:55 29/07/2025",
+        "reason": "💫",
+        "bannedBy": "The'w FareBii'w",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
