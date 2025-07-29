@@ -230,6 +230,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61552524543279",
+      {
+        "name": "FT ÂMîr Øô",
+        "userId": "61552524543279",
+        "time": "11:28:41 29/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -10736,6 +10747,18 @@
     [
       "100073851005811",
       "Siddiqua Fatima"
+    ],
+    [
+      "61552524543279",
+      "FT ÂMîr Øô"
+    ],
+    [
+      "100033788737649",
+      "Jutti Soni"
+    ],
+    [
+      "61574099061082",
+      "Shehzadi Duaa"
     ]
   ]
 }
