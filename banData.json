@@ -307,6 +307,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100071257547818",
+      {
+        "name": "Sarkarni Gee",
+        "userId": "100071257547818",
+        "time": "16:50:11 29/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -13813,6 +13824,30 @@
     [
       "61558886037037",
       "Owais Khan"
+    ],
+    [
+      "61563203696040",
+      "Prince Prince"
+    ],
+    [
+      "61575778574782",
+      "Sanam Jaan"
+    ],
+    [
+      "61568278794088",
+      "Sad Gril"
+    ],
+    [
+      "61561574040157",
+      "Iñnøxênt Mēēnu"
+    ],
+    [
+      "100078794964292",
+      "Shona Foji"
+    ],
+    [
+      "61559052257635",
+      "Ackerman Levi"
     ]
   ]
 }
