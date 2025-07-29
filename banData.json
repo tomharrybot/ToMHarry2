@@ -285,6 +285,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61572845254417",
+      {
+        "name": "Fyter Jutt",
+        "userId": "61572845254417",
+        "time": "15:34:12 29/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
