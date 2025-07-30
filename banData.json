@@ -131,6 +131,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100095399227327",
+      {
+        "name": "Ashi Ashi",
+        "userId": "100095399227327",
+        "time": "16:01:30 30/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
