@@ -109,6 +109,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100095133999400",
+      {
+        "name": "Khonkhar Chor",
+        "userId": "100095133999400",
+        "time": "15:53:27 30/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -1634,7 +1645,7 @@
     ],
     [
       "61577316136948",
-      "Facebook user"
+      "Ayat Fatima"
     ],
     [
       "61577899762186",
@@ -1718,7 +1729,7 @@
     ],
     [
       "100067946448371",
-      "Islam Ke Shahzadi"
+      "Kuri Jutta De"
     ],
     [
       "100071527290376",
@@ -21599,6 +21610,34 @@
     [
       "100057025007274",
       "Pooja Malik"
+    ],
+    [
+      "61574557581604",
+      "Minsa Khan"
+    ],
+    [
+      "100078343674655",
+      "Imaan Writers"
+    ],
+    [
+      "100063415336244",
+      "Ava BoTni 󱢏"
+    ],
+    [
+      "100088822325181",
+      "ToM HarDy"
+    ],
+    [
+      "100025761171809",
+      "W　A　Q　A　 R　ツ"
+    ],
+    [
+      "100058317794648",
+      "Saqib Waqas Waqas"
+    ],
+    [
+      "100076507414277",
+      "معصوم درندہ"
     ]
   ]
 }
