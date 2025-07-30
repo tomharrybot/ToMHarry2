@@ -1,5 +1,17 @@
 {
-  "userBanned": [],
+  "userBanned": [
+    [
+      "61567076275983",
+      {
+        "name": "Cʌll ɱe Hʌʀʌɱi",
+        "userId": "61567076275983",
+        "time": "00:13:59 31/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
+    ]
+  ],
   "userName": [
     [
       "100088729275370",
@@ -22972,6 +22984,14 @@
     [
       "100049251886386",
       "Shamsher Singh"
+    ],
+    [
+      "61564451559897",
+      "Uff Adiiw"
+    ],
+    [
+      "61558658608052",
+      "Kanwal Batool"
     ]
   ]
 }
