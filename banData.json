@@ -153,6 +153,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100055317974510",
+      {
+        "name": "Imdad Ali",
+        "userId": "100055317974510",
+        "time": "19:24:36 30/07/2025",
+        "reason": "Ali",
+        "bannedBy": "The'w FareBii'w",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
