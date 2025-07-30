@@ -153,6 +153,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61557450231867",
+      {
+        "name": "Heisen Berg",
+        "userId": "61557450231867",
+        "time": "19:27:36 30/07/2025",
+        "reason": "Berg",
+        "bannedBy": "Aaira Fatima",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
