@@ -1,50 +1,5 @@
 {
-  "userBanned": [
-    [
-      "61555742656765",
-      {
-        "name": "بـﹻﹻﹻﹻﹿٰٰٰٖٖٖٜ۬ــٰـٖـٰ۬ـٖـــد مــٰـٖـٰ۬ــٰـٖـٰ۬ـٖـــٖــزاج",
-        "userId": "61555742656765",
-        "time": "20:52:57 30/07/2025",
-        "reason": "Spamming (5 messages in 5 seconds)",
-        "bannedBy": "System (Auto-Ban)",
-        "type": "auto"
-      }
-    ],
-    [
-      "61575009351490",
-      {
-        "name": "ادھورا چاند",
-        "userId": "61575009351490",
-        "time": "22:01:02 30/07/2025",
-        "reason": "Spamming (5 messages in 5 seconds)",
-        "bannedBy": "System (Auto-Ban)",
-        "type": "auto"
-      }
-    ],
-    [
-      "100041764599232",
-      {
-        "name": "Anees Manaf",
-        "userId": "100041764599232",
-        "time": "22:49:37 30/07/2025",
-        "reason": "Spamming (5 messages in 5 seconds)",
-        "bannedBy": "System (Auto-Ban)",
-        "type": "auto"
-      }
-    ],
-    [
-      "61572845254417",
-      {
-        "name": "Fyter Jutt",
-        "userId": "61572845254417",
-        "time": "23:31:30 30/07/2025",
-        "reason": "Spamming (5 messages in 5 seconds)",
-        "bannedBy": "System (Auto-Ban)",
-        "type": "auto"
-      }
-    ]
-  ],
+  "userBanned": [],
   "userName": [
     [
       "100088729275370",
