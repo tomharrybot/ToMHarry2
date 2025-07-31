@@ -76,6 +76,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61569864613042",
+      {
+        "name": "Maheen Rj",
+        "userId": "61569864613042",
+        "time": "14:30:13 31/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -24730,6 +24741,22 @@
     [
       "61573975713385",
       "CʜocʞʟʌTy Gııʀʟ"
+    ],
+    [
+      "100081093247759",
+      "Malik Nabeel"
+    ],
+    [
+      "61576230346376",
+      "Laiba Khan"
+    ],
+    [
+      "61577181076002",
+      "Betie Ke Ho Yar"
+    ],
+    [
+      "100090796505542",
+      "It'z Zoya"
     ]
   ]
 }
