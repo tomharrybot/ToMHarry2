@@ -142,6 +142,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100053807105655",
+      {
+        "name": "Meerha Rao",
+        "userId": "100053807105655",
+        "time": "17:59:41 31/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -25556,6 +25567,18 @@
     [
       "61578386499355",
       "Háńìá Máľíķ"
+    ],
+    [
+      "100011560112023",
+      "Ayshuu Rajpoot"
+    ],
+    [
+      "61576924542589",
+      "Sana Noman"
+    ],
+    [
+      "100077995722653",
+      "Alon Foji"
     ]
   ]
 }
