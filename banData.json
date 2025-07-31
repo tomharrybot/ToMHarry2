@@ -208,6 +208,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61555525595533",
+      {
+        "name": "M Saad",
+        "userId": "61555525595533",
+        "time": "20:54:54 31/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -881,7 +892,7 @@
     ],
     [
       "100007792156944",
-      "Facebook user"
+      "AnUrag MisHra"
     ],
     [
       "100041723868383",
@@ -26786,6 +26797,22 @@
     [
       "100073463764065",
       "Udas Larki"
+    ],
+    [
+      "61561617514836",
+      "Shona Bot"
+    ],
+    [
+      "61577338747800",
+      "Facebook user"
+    ],
+    [
+      "100009218167290",
+      "Zeeshan Malik"
+    ],
+    [
+      "61576825111512",
+      "Ritik Kumar"
     ]
   ]
 }
