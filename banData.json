@@ -197,6 +197,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100091283252907",
+      {
+        "name": "Masoom Zadi",
+        "userId": "100091283252907",
+        "time": "20:39:56 31/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -26771,6 +26782,10 @@
     [
       "61561196704890",
       "خونى راجپوت"
+    ],
+    [
+      "100073463764065",
+      "Udas Larki"
     ]
   ]
 }
