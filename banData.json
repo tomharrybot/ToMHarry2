@@ -43,6 +43,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100012675574166",
+      {
+        "name": "Unjaan Unjaan",
+        "userId": "100012675574166",
+        "time": "11:58:19 31/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -24233,6 +24244,46 @@
     [
       "100089995164156",
       "Hur'l X."
+    ],
+    [
+      "61550913156791",
+      "Ayesha Gull "
+    ],
+    [
+      "61561278361586",
+      "Imsaal Rajpoot "
+    ],
+    [
+      "61562901402417",
+      "Pappa Ki Pari"
+    ],
+    [
+      "100089649101964",
+      "Rajput Queen"
+    ],
+    [
+      "61577408327988",
+      "Attɩq Hʋ'ŋ Yʌw'ʀ"
+    ],
+    [
+      "100069747661673",
+      "Amir Khan"
+    ],
+    [
+      "61578738083360",
+      "- Bɚ Əxpəƞsɪɪvɚ Bɚ uƞɪɪQuɚ - "
+    ],
+    [
+      "61570860920839",
+      "Maryum Maryum"
+    ],
+    [
+      "61572188542830",
+      "Hina Khan"
+    ],
+    [
+      "100012675574166",
+      "Unjaan Unjaan"
     ]
   ]
 }
