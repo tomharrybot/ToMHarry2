@@ -32,6 +32,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61578830607191",
+      {
+        "name": "Kiya Yar",
+        "userId": "61578830607191",
+        "time": "10:18:27 31/07/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -24218,6 +24229,10 @@
     [
       "61559555400980",
       "Laiba Khan"
+    ],
+    [
+      "100089995164156",
+      "Hur'l X."
     ]
   ]
 }
