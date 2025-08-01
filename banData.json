@@ -32,6 +32,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61556463358934",
+      {
+        "name": "Khan Zaadi",
+        "userId": "61556463358934",
+        "time": "10:54:49 01/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -26714,6 +26725,14 @@
     [
       "61572297266204",
       "Ser Mehmet"
+    ],
+    [
+      "100079002400182",
+      "Arham Hun Yar"
+    ],
+    [
+      "61556463358934",
+      "Khan Zaadi"
     ]
   ]
 }
