@@ -21,6 +21,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61576559212750",
+      {
+        "name": "Shoni",
+        "userId": "61576559212750",
+        "time": "10:41:06 01/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -26695,6 +26706,14 @@
     [
       "61550003654886",
       "JAwad Ahmad"
+    ],
+    [
+      "61576559212750",
+      "Shoni"
+    ],
+    [
+      "61572297266204",
+      "Ser Mehmet"
     ]
   ]
 }
