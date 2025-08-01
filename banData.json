@@ -131,6 +131,28 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61570107476269",
+      {
+        "name": "ᰔᩚ一ཫ ꕥ βυττεrfly ꕥ ฝ ː᭄ꜛᜊ",
+        "userId": "61570107476269",
+        "time": "17:43:00 01/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
+    ],
+    [
+      "61578838887749",
+      {
+        "name": "ᐸᓲᖶᖶᗂ ᘹᕱᖶᖶᓍ",
+        "userId": "61578838887749",
+        "time": "17:51:02 01/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
