@@ -175,6 +175,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100041764599232",
+      {
+        "name": "Anees Manaf",
+        "userId": "100041764599232",
+        "time": "19:23:53 01/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -31857,6 +31868,10 @@
     [
       "100049072327679",
       "Arfa Azeem"
+    ],
+    [
+      "61572457833278",
+      "Inshal Khan"
     ]
   ]
 }
