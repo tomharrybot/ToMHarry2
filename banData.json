@@ -1,5 +1,17 @@
 {
-  "userBanned": [],
+  "userBanned": [
+    [
+      "100088562880260",
+      {
+        "name": "Anas Shah",
+        "userId": "100088562880260",
+        "time": "12:53:06 01/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
+    ]
+  ],
   "userName": [
     [
       "100088729275370",
@@ -28020,6 +28032,30 @@
     [
       "61578880495644",
       "ɭɭ-ʌ MONXTER KIING ʌ-ɭɭ"
+    ],
+    [
+      "61579114730647",
+      "Aira Zahra"
+    ],
+    [
+      "61554171121454",
+      "Xāvi Tūhā"
+    ],
+    [
+      "100000227076962",
+      "Radha"
+    ],
+    [
+      "61555464960924",
+      "Kylie Chin"
+    ],
+    [
+      "61565853540503",
+      "Memon Sahab"
+    ],
+    [
+      "61571737862209",
+      "Panga Baz Kaka"
     ]
   ]
 }
