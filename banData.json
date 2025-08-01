@@ -32,6 +32,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100057105551817",
+      {
+        "name": "Hunain Guzel",
+        "userId": "100057105551817",
+        "time": "21:39:47 01/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
