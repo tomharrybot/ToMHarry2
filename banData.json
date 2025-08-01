@@ -1,5 +1,17 @@
 {
-  "userBanned": [],
+  "userBanned": [
+    [
+      "61576091630094",
+      {
+        "name": "Rei Saiga",
+        "userId": "61576091630094",
+        "time": "19:38:55 01/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
+    ]
+  ],
   "userName": [
     [
       "100088729275370",
@@ -27611,7 +27623,7 @@
     ],
     [
       "61551201871861",
-      "Ruhi Singh"
+      "Kanika Kannu"
     ],
     [
       "61553759949528",
@@ -31684,6 +31696,18 @@
     [
       "61572457833278",
       "Inshal Khan"
+    ],
+    [
+      "61575086751081",
+      "Haan Syoug"
+    ],
+    [
+      "61577006523319",
+      "Khan Zadi"
+    ],
+    [
+      "61550664958377",
+      "Ɣʬ'ɽ Rʌsʜɩɗ Oʬə'ɭɭəx"
     ]
   ]
 }
