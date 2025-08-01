@@ -10,6 +10,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100080538726722",
+      {
+        "name": "Ali Haider",
+        "userId": "100080538726722",
+        "time": "00:10:24 02/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -17979,7 +17990,7 @@
     ],
     [
       "61578819033509",
-      "Love "
+      "Facebook user"
     ],
     [
       "100070952828433",
@@ -31623,7 +31634,7 @@
     ],
     [
       "61559363525129",
-      "Unfunny Lizzy"
+      "Facebook user"
     ],
     [
       "100053066931912",
@@ -35132,6 +35143,18 @@
     [
       "100085016885744",
       "Míñál Kháñ"
+    ],
+    [
+      "61556344474394",
+      "Lily Lily"
+    ],
+    [
+      "100083334744161",
+      "Safiya Siddika"
+    ],
+    [
+      "100094054236593",
+      "Kim Anu Awan"
     ]
   ]
 }
