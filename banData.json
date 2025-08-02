@@ -241,6 +241,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61576813797765",
+      {
+        "name": "اســـــلام کــــی شــــــہزادی",
+        "userId": "61576813797765",
+        "time": "12:12:29 02/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -38407,6 +38418,26 @@
     [
       "100090105843854",
       "Muntaha Seher"
+    ],
+    [
+      "100071367038391",
+      "Majid Jaan Khoso"
+    ],
+    [
+      "61562627407092",
+      "Zidii Queen Zidii Queen"
+    ],
+    [
+      "61554506285348",
+      "DA D"
+    ],
+    [
+      "61559180616632",
+      "Zalim Darinda"
+    ],
+    [
+      "61561322305305",
+      "Sonii Kuri Sonii Kuri"
     ]
   ]
 }
