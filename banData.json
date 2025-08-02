@@ -252,6 +252,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61563370162254",
+      {
+        "name": "Zeshan Ahmad",
+        "userId": "61563370162254",
+        "time": "12:39:18 02/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -38438,6 +38449,30 @@
     [
       "61561322305305",
       "Sonii Kuri Sonii Kuri"
+    ],
+    [
+      "61577321316951",
+      "Rayna Rajput"
+    ],
+    [
+      "61570320061445",
+      "Ali Zeeshan"
+    ],
+    [
+      "100091599926682",
+      "Khan Bhai"
+    ],
+    [
+      "100091461434082",
+      "Sɩŋɗʜɩ Cʋtɘ Lʌʀĸʌ"
+    ],
+    [
+      "61578578315142",
+      "Bewafa Log"
+    ],
+    [
+      "61552575154265",
+      "Zedi Larka"
     ]
   ]
 }
