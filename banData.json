@@ -230,6 +230,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100077995722653",
+      {
+        "name": "Alon Foji",
+        "userId": "100077995722653",
+        "time": "11:58:48 02/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -38392,6 +38403,10 @@
     [
       "100095053342522",
       "Teraa Aashiq"
+    ],
+    [
+      "100090105843854",
+      "Muntaha Seher"
     ]
   ]
 }
