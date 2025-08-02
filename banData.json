@@ -65,6 +65,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100053807105655",
+      {
+        "name": "Meerha Rao",
+        "userId": "100053807105655",
+        "time": "18:45:38 02/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -39227,6 +39238,30 @@
     [
       "100087730997747",
       "Owŋɘʀ Cʀiɱɩnʌɭ ɱʌno Iŋsɩɗe"
+    ],
+    [
+      "61578739979998",
+      "Hashim Kardar"
+    ],
+    [
+      "61571993567816",
+      "Sehrish Hina"
+    ],
+    [
+      "61571757165041",
+      "Muhammad Taqi"
+    ],
+    [
+      "100053706995870",
+      "Mian Amir"
+    ],
+    [
+      "100094330637073",
+      "Abdul Rehman"
+    ],
+    [
+      "61575181352521",
+      "Leo Kurt"
     ]
   ]
 }
