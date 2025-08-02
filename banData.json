@@ -153,6 +153,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100086663697173",
+      {
+        "name": "Aqsa Rani",
+        "userId": "100086663697173",
+        "time": "10:38:13 02/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -25162,7 +25173,7 @@
     ],
     [
       "61572762633177",
-      "Baba Ki Ladliy Saba"
+      "Ladli Pari Saba Baloch"
     ],
     [
       "61572964926720",
@@ -35927,6 +35938,34 @@
     [
       "100072176116515",
       "Xtylish Romeo"
+    ],
+    [
+      "100078328729216",
+      "حسن رائے"
+    ],
+    [
+      "100067312087790",
+      "Naruto Ninja"
+    ],
+    [
+      "61559600917969",
+      "Xtilysh Danii"
+    ],
+    [
+      "61553863087204",
+      "Aryan Hun"
+    ],
+    [
+      "61550246814028",
+      "Itx Moon"
+    ],
+    [
+      "100029353098684",
+      "ShĒrry KhÂn"
+    ],
+    [
+      "61569229659242",
+      "Ayza Khan"
     ]
   ]
 }
