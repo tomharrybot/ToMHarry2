@@ -87,6 +87,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61576624975675",
+      {
+        "name": "Fariya Zohaib",
+        "userId": "61576624975675",
+        "time": "19:04:53 02/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -39277,6 +39288,10 @@
     [
       "100005141765291",
       "𝘼𝙈𝙀𝙀𝙉 𝙈𝙐𝙎𝙏𝘼𝙁𝘼"
+    ],
+    [
+      "61558254907705",
+      "Mitti Ki Guriya"
     ]
   ]
 }
