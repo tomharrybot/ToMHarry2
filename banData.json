@@ -131,6 +131,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61561838702918",
+      {
+        "name": "Anaya Zia",
+        "userId": "61561838702918",
+        "time": "21:27:14 02/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -39525,6 +39536,22 @@
     [
       "61561211117287",
       "Lalchi ladki "
+    ],
+    [
+      "61578332902551",
+      "Khani G"
+    ],
+    [
+      "61578912292690",
+      "Shazii Khan"
+    ],
+    [
+      "61563563424449",
+      "Zidi Rajpoot"
+    ],
+    [
+      "100031964751859",
+      "Ayshaw Khan"
     ]
   ]
 }
