@@ -285,6 +285,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61578774937782",
+      {
+        "name": "Abrish Khan",
+        "userId": "61578774937782",
+        "time": "14:16:09 02/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -37850,7 +37861,7 @@
     ],
     [
       "61573962291217",
-      "Facebook user"
+      "Sameer M Khan"
     ],
     [
       "61574011079991",
@@ -38655,6 +38666,38 @@
     [
       "61575089400412",
       "Syco Bhatti"
+    ],
+    [
+      "61578685478176",
+      "Mohtarma G"
+    ],
+    [
+      "61563368033727",
+      "Ap Ka Ladla"
+    ],
+    [
+      "100090148365465",
+      "IllGʋʀɩƴʌ QʋɘɘŋIll"
+    ],
+    [
+      "100009673242520",
+      "Ijaz Ahmad"
+    ],
+    [
+      "61578774937782",
+      "Abrish Khan"
+    ],
+    [
+      "1753855074",
+      "Shahzaib Khanzada 󱢏"
+    ],
+    [
+      "100082319903145",
+      "Muzafar Ali Solangi"
+    ],
+    [
+      "61566802234839",
+      "Mian Mian"
     ]
   ]
 }
