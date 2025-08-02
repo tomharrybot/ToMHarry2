@@ -142,6 +142,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100041764599232",
+      {
+        "name": "Anees Manaf",
+        "userId": "100041764599232",
+        "time": "21:57:24 02/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -39552,6 +39563,22 @@
     [
       "100031964751859",
       "Ayshaw Khan"
+    ],
+    [
+      "100089722670335",
+      "Mehak Noor"
+    ],
+    [
+      "100075148635261",
+      "Shanzay Khan Khan"
+    ],
+    [
+      "100080363714330",
+      "Noman Khan Tanoli"
+    ],
+    [
+      "61577592252119",
+      "Shizan Khan"
     ]
   ]
 }
