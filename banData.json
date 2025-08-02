@@ -76,6 +76,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61558055729972",
+      {
+        "name": "Anna Belle",
+        "userId": "61558055729972",
+        "time": "18:59:07 02/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -39262,6 +39273,10 @@
     [
       "61575181352521",
       "Leo Kurt"
+    ],
+    [
+      "100005141765291",
+      "𝘼𝙈𝙀𝙀𝙉 𝙈𝙐𝙎𝙏𝘼𝙁𝘼"
     ]
   ]
 }
