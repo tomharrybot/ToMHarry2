@@ -54,6 +54,17 @@
         "bannedBy": "Aaira Fatima",
         "type": "manual"
       }
+    ],
+    [
+      "61563852651906",
+      {
+        "name": "Sheezu Queen",
+        "userId": "61563852651906",
+        "time": "22:04:44 03/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -46612,6 +46623,10 @@
     [
       "100089324955817",
       "Waqas Ali Gabol"
+    ],
+    [
+      "61575721876235",
+      "Sɛɛɓīī 🖤"
     ]
   ]
 }
