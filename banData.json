@@ -43,6 +43,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61574442060330",
+      {
+        "name": "Sasuke Aizen",
+        "userId": "61574442060330",
+        "time": "11:15:54 03/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
