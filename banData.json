@@ -21,6 +21,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61555313667973",
+      {
+        "name": "Aaira Fatima",
+        "userId": "61555313667973",
+        "time": "01:48:00 04/08/2025",
+        "reason": "Fatima",
+        "bannedBy": "Imdad Ali",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
