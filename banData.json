@@ -10,6 +10,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61553412533863",
+      {
+        "name": "D Ho Rri",
+        "userId": "61553412533863",
+        "time": "23:17:08 03/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
