@@ -21,6 +21,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100016481621825",
+      {
+        "name": "Muhammad Kamran Noor",
+        "userId": "100016481621825",
+        "time": "03:37:52 04/08/2025",
+        "reason": "No reason provided",
+        "bannedBy": "Imdad Ali",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
