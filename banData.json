@@ -1,50 +1,5 @@
 {
-  "userBanned": [
-    [
-      "100092851525092",
-      {
-        "name": "Tʜ'ȝ ɭɪɪg'ȝɽ",
-        "userId": "100092851525092",
-        "time": "23:13:57 03/08/2025",
-        "reason": "Spamming (5 messages in 5 seconds)",
-        "bannedBy": "System (Auto-Ban)",
-        "type": "auto"
-      }
-    ],
-    [
-      "100094131696586",
-      {
-        "name": "Alishba Khan",
-        "userId": "100094131696586",
-        "time": "23:46:57 03/08/2025",
-        "reason": "Spamming (5 messages in 5 seconds)",
-        "bannedBy": "System (Auto-Ban)",
-        "type": "auto"
-      }
-    ],
-    [
-      "100065798674928",
-      {
-        "name": "Bɭossoɱ ꜛ ː 爾一",
-        "userId": "100065798674928",
-        "time": "00:11:49 04/08/2025",
-        "reason": "Spamming (5 messages in 5 seconds)",
-        "bannedBy": "System (Auto-Ban)",
-        "type": "auto"
-      }
-    ],
-    [
-      "100095085810517",
-      {
-        "name": "𝓒𝓱𝓾𝓶𝓶𝓪𝓪 ;* 🩵",
-        "userId": "100095085810517",
-        "time": "00:12:11 04/08/2025",
-        "reason": "Spamming (5 messages in 5 seconds)",
-        "bannedBy": "System (Auto-Ban)",
-        "type": "auto"
-      }
-    ]
-  ],
+  "userBanned": [],
   "userName": [
     [
       "100088729275370",
