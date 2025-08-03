@@ -54,6 +54,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100016481621825",
+      {
+        "name": "Muhammad Kamran Noor",
+        "userId": "100016481621825",
+        "time": "23:04:18 03/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -46620,6 +46631,18 @@
     [
       "61559620414197",
       "Aŋʌƴʌ Kʜʌŋ"
+    ],
+    [
+      "61575534984805",
+      "⏤ Why Sanam 🩶"
+    ],
+    [
+      "61571434576669",
+      "Mishii Bajwa"
+    ],
+    [
+      "100092142586608",
+      "Mååhî Khãñ"
     ]
   ]
 }
