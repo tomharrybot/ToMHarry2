@@ -1,5 +1,17 @@
 {
-  "userBanned": [],
+  "userBanned": [
+    [
+      "61577300502109",
+      {
+        "name": "Itz Mast Malang",
+        "userId": "61577300502109",
+        "time": "04:43:06 04/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
+    ]
+  ],
   "userName": [
     [
       "100088729275370",
@@ -47032,6 +47044,14 @@
     [
       "61558959292096",
       "Aliza Kainat"
+    ],
+    [
+      "100041597490555",
+      "Summera Mehar"
+    ],
+    [
+      "61555132591476",
+      "Malaika Ali"
     ]
   ]
 }
