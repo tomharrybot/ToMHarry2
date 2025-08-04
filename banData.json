@@ -252,6 +252,17 @@
         "bannedBy": "Jordan Xhk",
         "type": "manual"
       }
+    ],
+    [
+      "Imdad",
+      {
+        "name": "Unknown",
+        "userId": "Imdad",
+        "time": "01:06:08 05/08/2025",
+        "reason": "Ali",
+        "bannedBy": "Imdad Ali",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
@@ -50670,6 +50681,10 @@
     [
       "61577770602404",
       "Waleed G"
+    ],
+    [
+      "Imdad",
+      "Unknown"
     ]
   ]
 }
