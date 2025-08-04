@@ -120,6 +120,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100092142586608",
+      {
+        "name": "Mååhî Khãñ",
+        "userId": "100092142586608",
+        "time": "20:09:43 04/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -49026,6 +49037,10 @@
     [
       "61557897610716",
       "Muhammad Jalil Khan"
+    ],
+    [
+      "61576003284311",
+      "Ɣʬɽ Aafreen Ȭʬɭııx"
     ]
   ]
 }
