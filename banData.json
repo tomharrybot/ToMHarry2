@@ -43,6 +43,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100095399227327",
+      {
+        "name": "Ashi Ashi",
+        "userId": "100095399227327",
+        "time": "14:16:30 04/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -48641,6 +48652,10 @@
     [
       "100090588768176",
       "اَن٘ــــــــاٰ پَر٘سٌـــــــــــــــــــتً"
+    ],
+    [
+      "100090301121245",
+      "Jani Sârkar"
     ]
   ]
 }
