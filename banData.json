@@ -32,6 +32,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100074519186025",
+      {
+        "name": "Y UR I",
+        "userId": "100074519186025",
+        "time": "02:15:56 05/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -51682,6 +51693,30 @@
     [
       "100095303017257",
       "Prince Zohaib"
+    ],
+    [
+      "61577955734893",
+      "⇣Hɛƞɹɹɣ 🙂🖤"
+    ],
+    [
+      "100067016314626",
+      "Ahmer Çàť Bøÿ"
+    ],
+    [
+      "61565678954463",
+      "Malik Talha"
+    ],
+    [
+      "61555540505512",
+      "Rana Saad"
+    ],
+    [
+      "61577568995089",
+      "Ruhaya"
+    ],
+    [
+      "100005683834818",
+      "Reshma Khan"
     ]
   ]
 }
