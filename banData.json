@@ -76,6 +76,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100026531205324",
+      {
+        "name": "Khubaib Bhatti",
+        "userId": "100026531205324",
+        "time": "14:39:51 04/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -48770,6 +48781,18 @@
     [
       "100089251817557",
       "Tasneem Haider"
+    ],
+    [
+      "61578093879235",
+      "Saima Sheikh"
+    ],
+    [
+      "100082526504764",
+      "Teekhi Mirchi"
+    ],
+    [
+      "61553869232175",
+      "Dʌɗ Oʆ Dɘvɩɭ"
     ]
   ]
 }
