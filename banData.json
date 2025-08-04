@@ -65,6 +65,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100091477000315",
+      {
+        "name": "अंश शर्मा",
+        "userId": "100091477000315",
+        "time": "14:29:19 04/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -48691,6 +48702,74 @@
     [
       "61578286183152",
       "Jutt Gangsters"
+    ],
+    [
+      "61552157932782",
+      "Amna Shani"
+    ],
+    [
+      "61559355526436",
+      "Abeha Rani"
+    ],
+    [
+      "61572150870554",
+      "Guria Guria"
+    ],
+    [
+      "61574012843550",
+      "Shahnaz G"
+    ],
+    [
+      "61577853287808",
+      "Zidi Larka"
+    ],
+    [
+      "61578124317545",
+      "Nazia Noor"
+    ],
+    [
+      "61578213401811",
+      "Syeda Amna"
+    ],
+    [
+      "61578359019980",
+      "Amna Bibi"
+    ],
+    [
+      "61578435757687",
+      "Fatima Noor"
+    ],
+    [
+      "61578641394274",
+      "Hina She male "
+    ],
+    [
+      "61578761966762",
+      "Syeda Amna"
+    ],
+    [
+      "100009417607270",
+      "Amna Kakar"
+    ],
+    [
+      "100044700131040",
+      "Mano Bili"
+    ],
+    [
+      "100049580508470",
+      "Noor Ali"
+    ],
+    [
+      "100065126626444",
+      "Ayesha Zainab"
+    ],
+    [
+      "100086599863792",
+      "Saim Amna"
+    ],
+    [
+      "100089251817557",
+      "Tasneem Haider"
     ]
   ]
 }
