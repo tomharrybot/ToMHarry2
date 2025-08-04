@@ -197,6 +197,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61562343591128",
+      {
+        "name": "Ɣʬ'ɽ Tʜɘ'w Ayesha Oʬə'ɭɭəx",
+        "userId": "61562343591128",
+        "time": "22:30:47 04/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -19046,7 +19057,7 @@
     ],
     [
       "61563370162254",
-      "Facebook user"
+      "Zeshan Ahmad"
     ],
     [
       "61563624817678",
@@ -50490,7 +50501,7 @@
     ],
     [
       "61574679571898",
-      "Sarphiri Larki"
+      "Facebook user"
     ],
     [
       "100012406894785",
@@ -50539,6 +50550,74 @@
     [
       "61572253108551",
       "Branded Kamena"
+    ],
+    [
+      "61550040090640",
+      "Adil Rajpoot"
+    ],
+    [
+      "61551764735866",
+      "Pinky Behera"
+    ],
+    [
+      "61553575555345",
+      "Saraf Khan Saraf Khan"
+    ],
+    [
+      "61553736236555",
+      "Zara Bhatti"
+    ],
+    [
+      "61555966455343",
+      "Sayeda Abeera"
+    ],
+    [
+      "61557826897606",
+      "Alishba Rafiq"
+    ],
+    [
+      "61571006133388",
+      "Fatima Fatima"
+    ],
+    [
+      "61573057723201",
+      "Aliza Rani"
+    ],
+    [
+      "61574244433202",
+      "Khan Khan"
+    ],
+    [
+      "61576771645839",
+      "Hamzi Gujjar"
+    ],
+    [
+      "61577064479224",
+      "Ziddi Zara"
+    ],
+    [
+      "100039249166660",
+      "Aliza Ladli"
+    ],
+    [
+      "100053544830299",
+      "Abdullah Shinwari"
+    ],
+    [
+      "100080806763310",
+      "Noor Noor"
+    ],
+    [
+      "61573544986400",
+      "Zar Seed"
+    ],
+    [
+      "61555803564793",
+      "Yuli Ynaa"
+    ],
+    [
+      "61563193191617",
+      "Yunusa Nasiru"
     ]
   ]
 }
