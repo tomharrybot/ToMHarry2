@@ -1,5 +1,17 @@
 {
-  "userBanned": [],
+  "userBanned": [
+    [
+      "61577874826103",
+      {
+        "name": "Muna Maical",
+        "userId": "61577874826103",
+        "time": "01:12:35 05/08/2025",
+        "reason": "No reason provided",
+        "bannedBy": "The'w FareBii'w",
+        "type": "manual"
+      }
+    ]
+  ],
   "userName": [
     [
       "100088729275370",
