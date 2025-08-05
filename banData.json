@@ -76,6 +76,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61577700995090",
+      {
+        "name": "FATIMA BURAK 󱢏",
+        "userId": "61577700995090",
+        "time": "14:09:50 05/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
