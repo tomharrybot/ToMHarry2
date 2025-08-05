@@ -1,5 +1,17 @@
 {
-  "userBanned": [],
+  "userBanned": [
+    [
+      "100041764599232",
+      {
+        "name": "Anees Manaf",
+        "userId": "100041764599232",
+        "time": "17:15:42 05/08/2025",
+        "reason": "Manaf",
+        "bannedBy": "Imdad Ali",
+        "type": "manual"
+      }
+    ]
+  ],
   "userName": [
     [
       "100088729275370",
