@@ -87,6 +87,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "@Zoya",
+      {
+        "name": "Unknown",
+        "userId": "@Zoya",
+        "time": "20:10:21 05/08/2025",
+        "reason": "AnSari",
+        "bannedBy": "Eva Doll",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
@@ -54425,6 +54436,10 @@
     [
       "100090327475919",
       "Shafiq Ahmad"
+    ],
+    [
+      "@Zoya",
+      "Unknown"
     ]
   ]
 }
