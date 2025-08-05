@@ -87,6 +87,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100095133999400",
+      {
+        "name": "Khonkhar Chor",
+        "userId": "100095133999400",
+        "time": "14:22:15 05/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -52473,6 +52484,14 @@
     [
       "61578369451555",
       "تــــــبــــــاہــــــی کــــا بـــــادشــــــاه"
+    ],
+    [
+      "61578840362922",
+      "NawAb ZaDi"
+    ],
+    [
+      "100022723371155",
+      "Ajiya Abarasin"
     ]
   ]
 }
