@@ -21,6 +21,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100089857510031",
+      {
+        "name": "Heer Jutt",
+        "userId": "100089857510031",
+        "time": "18:13:23 05/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -53607,6 +53618,10 @@
     [
       "61570939571853",
       "Saif Khan IHWA　KE　LAYKA　LAYKA　KE　SHANGH　JAIEBU　FAS　TORA　SARIRIYA　KE　DHILA　HOUI　NAS　HAI　CHAPRA　CHAPRA　KE　BOSS　 - II"
+    ],
+    [
+      "61578143526880",
+      "Zʌɭɩɱ Jʋttɩ"
     ]
   ]
 }
