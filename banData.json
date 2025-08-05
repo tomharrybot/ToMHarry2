@@ -142,6 +142,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61578638355849",
+      {
+        "name": "Fózíà ẞhàh",
+        "userId": "61578638355849",
+        "time": "22:00:06 05/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -54884,6 +54895,10 @@
     [
       "61556521075255",
       "Moon Cuttie"
+    ],
+    [
+      "100065268864658",
+      "Ayan Khan"
     ]
   ]
 }
