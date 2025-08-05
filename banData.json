@@ -98,6 +98,17 @@
         "bannedBy": "Eva Doll",
         "type": "manual"
       }
+    ],
+    [
+      "@Ayat",
+      {
+        "name": "Unknown",
+        "userId": "@Ayat",
+        "time": "20:10:52 05/08/2025",
+        "reason": "Mughal",
+        "bannedBy": "Eva Doll",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
@@ -54439,6 +54450,10 @@
     ],
     [
       "@Zoya",
+      "Unknown"
+    ],
+    [
+      "@Ayat",
       "Unknown"
     ]
   ]
