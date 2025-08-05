@@ -219,6 +219,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61576949986929",
+      {
+        "name": "Bigri Shehzadi",
+        "userId": "61576949986929",
+        "time": "01:27:54 06/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
