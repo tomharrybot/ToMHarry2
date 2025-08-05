@@ -76,17 +76,6 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
-    ],
-    [
-      "@Emirts",
-      {
-        "name": "Unknown",
-        "userId": "@Emirts",
-        "time": "19:28:57 05/08/2025",
-        "reason": "Boy",
-        "bannedBy": "Eva Doll",
-        "type": "manual"
-      }
     ]
   ],
   "userName": [
