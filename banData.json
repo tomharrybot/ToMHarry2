@@ -263,6 +263,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61551218577556",
+      {
+        "name": "Ayesha Khan",
+        "userId": "61551218577556",
+        "time": "09:55:31 06/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -52596,7 +52607,7 @@
     ],
     [
       "61579263772364",
-      "Anjan Awara"
+      "Innocent Bachaa"
     ],
     [
       "100087059198474",
@@ -57925,6 +57936,42 @@
     [
       "61578902544502",
       "Unmarried Lizzy"
+    ],
+    [
+      "61559850818940",
+      "Anthony Jhonson"
+    ],
+    [
+      "61557479609857",
+      "انا پرست لڑکی"
+    ],
+    [
+      "61560477250548",
+      "Malik Kinza Khan"
+    ],
+    [
+      "61576731404920",
+      "Facebook user"
+    ],
+    [
+      "61577367185826",
+      "Sana Malik"
+    ],
+    [
+      "100048325342462",
+      "Mahi Jutt"
+    ],
+    [
+      "100087985683857",
+      "Uzair Khan"
+    ],
+    [
+      "100092609809709",
+      "Amina Butt"
+    ],
+    [
+      "100095095544347",
+      "Saba Jutt"
     ]
   ]
 }
