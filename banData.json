@@ -98,6 +98,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61577776785273",
+      {
+        "name": "Idk Maybe Andrea",
+        "userId": "61577776785273",
+        "time": "20:34:05 06/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -14476,6 +14487,10 @@
     [
       "61566317024508",
       "Raja Sahab"
+    ],
+    [
+      "61568589116472",
+      "Jutt Brand"
     ]
   ]
 }
