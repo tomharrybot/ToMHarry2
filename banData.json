@@ -43,6 +43,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100012454806150",
+      {
+        "name": "Mɘsʜʌ Kʜʌŋ",
+        "userId": "100012454806150",
+        "time": "16:51:52 06/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
