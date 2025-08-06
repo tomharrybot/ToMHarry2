@@ -43,6 +43,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61557450231867",
+      {
+        "name": "Heisen Berg",
+        "userId": "61557450231867",
+        "time": "16:59:24 06/08/2025",
+        "reason": "No reason provided",
+        "bannedBy": "Imdad Ali",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
