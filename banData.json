@@ -263,6 +263,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61578052502253",
+      {
+        "name": "Bewafa Hon Yar",
+        "userId": "61578052502253",
+        "time": "22:37:40 07/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -19821,6 +19832,10 @@
     [
       "61567589682045",
       "Xtylish Prince W"
+    ],
+    [
+      "61573942512080",
+      "Rooji Rooji"
     ]
   ]
 }
