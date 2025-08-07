@@ -87,6 +87,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61578983043709",
+      {
+        "name": "Ziddi Badmash",
+        "userId": "61578983043709",
+        "time": "13:19:34 07/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -15145,6 +15156,106 @@
     [
       "61578865046202",
       "Syed Zadii"
+    ],
+    [
+      "61550044084889",
+      "Syço Queen"
+    ],
+    [
+      "61552799057845",
+      "Saniya"
+    ],
+    [
+      "61555384031614",
+      "Heena Pari"
+    ],
+    [
+      "61555880607395",
+      "Robi Robena"
+    ],
+    [
+      "61559570534692",
+      "Diwani Mastani"
+    ],
+    [
+      "61559845892431",
+      "Khoja Ki Ho Yawl"
+    ],
+    [
+      "61561906305746",
+      "Syco King"
+    ],
+    [
+      "61564045382240",
+      "Raja Wajid Warjid Rajput"
+    ],
+    [
+      "61566495797354",
+      "Leah Flynn"
+    ],
+    [
+      "61568410341210",
+      "Afaq Mushtaq Afaq Mushtaq"
+    ],
+    [
+      "61572683828421",
+      "Asma Rajpot"
+    ],
+    [
+      "61573003961040",
+      "Ashu Awan"
+    ],
+    [
+      "61574210347507",
+      "Masoom Lrdka"
+    ],
+    [
+      "61574549472777",
+      "Sanam Khan Sanam"
+    ],
+    [
+      "61574670819794",
+      "Memon Ka Hon Yar"
+    ],
+    [
+      "61575780153567",
+      "Alexa Smith "
+    ],
+    [
+      "61576295668346",
+      "Bílål Rajput"
+    ],
+    [
+      "61578855130300",
+      "Sonreta Sonreta"
+    ],
+    [
+      "100015505518081",
+      "Hunny Abbas"
+    ],
+    [
+      "100033200053513",
+      "Sana Ch"
+    ],
+    [
+      "100051810101144",
+      "Noor Noor"
+    ],
+    [
+      "100063214486161",
+      "Samina Khan"
+    ],
+    [
+      "100088254996825",
+      "Alisha Fatma"
+    ],
+    [
+      "100091208067315",
+      "Sana Noor"
+    ],
+    [
+      "100093090481705",
+      "Annie Malik"
     ]
   ]
 }
