@@ -142,6 +142,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61558672021150",
+      {
+        "name": "Ayaan Khan",
+        "userId": "61558672021150",
+        "time": "14:47:40 07/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
