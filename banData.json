@@ -54,6 +54,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100094941110157",
+      {
+        "name": "Muhammad Ahtisham Ahtisham",
+        "userId": "100094941110157",
+        "time": "11:38:30 07/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -14916,6 +14927,14 @@
     [
       "100090116683490",
       "Yasir Jutt"
+    ],
+    [
+      "100082826382388",
+      "Usɱʌŋ Mʌŋɩ"
+    ],
+    [
+      "100089906916573",
+      "Zia Baloch"
     ]
   ]
 }
