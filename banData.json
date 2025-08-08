@@ -87,6 +87,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61576924542589",
+      {
+        "name": "Sana Noman",
+        "userId": "61576924542589",
+        "time": "11:46:08 08/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -22165,6 +22176,38 @@
     [
       "61562333129259",
       "Ali Hussain"
+    ],
+    [
+      "61550197538102",
+      "Shary Jutt"
+    ],
+    [
+      "61579233864570",
+      "Zara Zara"
+    ],
+    [
+      "100049636453975",
+      "Oyee Nafeesu"
+    ],
+    [
+      "61577998182551",
+      "Hozifa Abbasi"
+    ],
+    [
+      "61578963112828",
+      "Ap Ki Dua "
+    ],
+    [
+      "61566678657301",
+      "Rizwan Badsha"
+    ],
+    [
+      "61564663356573",
+      "Shan Shano"
+    ],
+    [
+      "61573553080027",
+      "MoNi KhAn"
     ]
   ]
 }
