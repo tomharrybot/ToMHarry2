@@ -98,6 +98,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61577802387844",
+      {
+        "name": "Roman Shah",
+        "userId": "61577802387844",
+        "time": "20:34:54 08/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -26720,6 +26731,46 @@
     [
       "100014781700082",
       "Shahri Amjad"
+    ],
+    [
+      "61577592075210",
+      "Ishque Zaadi"
+    ],
+    [
+      "61578813110071",
+      "Kısı-k Ħatħ'Na Áygi Yêħ-łádkii"
+    ],
+    [
+      "61575993567301",
+      "Farwa Khan"
+    ],
+    [
+      "100080226004250",
+      "The'w Zubiiew"
+    ],
+    [
+      "61569749441465",
+      "Khalid Bhatti"
+    ],
+    [
+      "100077306850525",
+      "CʋTɘ Bʌɭocʜ"
+    ],
+    [
+      "61565688071587",
+      "Kashish Manzoor"
+    ],
+    [
+      "100094925706745",
+      "Rdx Liger"
+    ],
+    [
+      "61569859732427",
+      "Ayan Sheikh"
+    ],
+    [
+      "61558127893748",
+      "Ali Raja"
     ]
   ]
 }
