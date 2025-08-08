@@ -87,6 +87,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61573435707796",
+      {
+        "name": "Rõ Sê",
+        "userId": "61573435707796",
+        "time": "18:58:07 08/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -26693,6 +26704,22 @@
     [
       "61564412152651",
       "Sher Dil Muhaffiz"
+    ],
+    [
+      "61578863772333",
+      "Moon Malik"
+    ],
+    [
+      "100092400594719",
+      "Ali Raja"
+    ],
+    [
+      "100085126571278",
+      "Ɣʬə'ɽ Adəəɭ Məhʌʀ Oʬəɭɭ'əx"
+    ],
+    [
+      "100014781700082",
+      "Shahri Amjad"
     ]
   ]
 }
