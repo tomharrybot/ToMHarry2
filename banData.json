@@ -65,6 +65,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100013048516710",
+      {
+        "name": "Masoom Larki",
+        "userId": "100013048516710",
+        "time": "08:38:03 08/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
