@@ -10,6 +10,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100087828926845",
+      {
+        "name": "تمہارے دل کی شہزادی",
+        "userId": "100087828926845",
+        "time": "21:34:10 09/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -34888,6 +34899,10 @@
     [
       "100089616317090",
       "Sana Queen"
+    ],
+    [
+      "61578157352246",
+      "Zar Yan"
     ]
   ]
 }
