@@ -54,6 +54,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100088729275370",
+      {
+        "name": "Ava BoTni",
+        "userId": "100088729275370",
+        "time": "22:40:04 09/08/2025",
+        "reason": "BoTni",
+        "bannedBy": "Jordan Xhk",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
