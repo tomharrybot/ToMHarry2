@@ -131,17 +131,6 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
-    ],
-    [
-      "100015367297281",
-      {
-        "name": "طحہ یاسین",
-        "userId": "100015367297281",
-        "time": "00:12:23 10/08/2025",
-        "reason": "Spamming (5 messages in 5 seconds)",
-        "bannedBy": "System (Auto-Ban)",
-        "type": "auto"
-      }
     ]
   ],
   "userName": [
