@@ -318,6 +318,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100044831558366",
+      {
+        "name": "Usman Khan",
+        "userId": "100044831558366",
+        "time": "20:50:46 09/08/2025",
+        "reason": "Khan",
+        "bannedBy": "Imdad Ali",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
