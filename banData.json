@@ -296,6 +296,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100088607259456",
+      {
+        "name": "It'z Salar",
+        "userId": "100088607259456",
+        "time": "17:54:26 09/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -34958,6 +34969,14 @@
     [
       "61579014851760",
       "Itx Jerry"
+    ],
+    [
+      "61577257732252",
+      "Faizi Saybi"
+    ],
+    [
+      "100088607259456",
+      "It'z Salar"
     ]
   ]
 }
