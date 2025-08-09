@@ -76,6 +76,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61572313396484",
+      {
+        "name": "ッテ",
+        "userId": "61572313396484",
+        "time": "23:11:08 09/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -35010,6 +35021,10 @@
     [
       "100093045016855",
       "Rao Saleet Zahid"
+    ],
+    [
+      "61560074152713",
+      "Alishaba Queen"
     ]
   ]
 }
