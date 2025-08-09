@@ -142,6 +142,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100072518611506",
+      {
+        "name": "Hãdî Khâñ",
+        "userId": "100072518611506",
+        "time": "12:23:18 09/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -6831,7 +6842,7 @@
     ],
     [
       "100086940529171",
-      "Facebook user"
+      "Kamran Khan"
     ],
     [
       "100089320895138",
@@ -34440,6 +34451,10 @@
     [
       "100084125372384",
       "Haider Ali"
+    ],
+    [
+      "61557763024720",
+      "Afzaal Rajpoot"
     ]
   ]
 }
