@@ -10,6 +10,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100043919474812",
+      {
+        "name": "Priya Muskan",
+        "userId": "100043919474812",
+        "time": "16:40:27 10/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
