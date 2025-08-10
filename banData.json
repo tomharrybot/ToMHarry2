@@ -109,6 +109,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61554180936692",
+      {
+        "name": "Mudassar Ali",
+        "userId": "61554180936692",
+        "time": "22:46:37 10/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -36527,6 +36538,14 @@
     [
       "100088982254779",
       "Haniya Mehar"
+    ],
+    [
+      "100053379506543",
+      "Arhan Idrishi"
+    ],
+    [
+      "61578252039997",
+      "Zinda Lash"
     ]
   ]
 }
