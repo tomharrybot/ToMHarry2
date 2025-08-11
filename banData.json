@@ -241,6 +241,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100043918353509",
+      {
+        "name": "Alishka Ali",
+        "userId": "100043918353509",
+        "time": "15:24:58 11/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -38539,6 +38550,14 @@
     [
       "100009413019969",
       "乛 Aɭıɣʌη 𫝆"
+    ],
+    [
+      "61579068131786",
+      "Naam'Bʌtʌ-DıyʌTo Pahchʌn'Burʌ-Maan Jayegı"
+    ],
+    [
+      "100015736891108",
+      "Mɩsʜʌɭ Gɩɭɭ"
     ]
   ]
 }
