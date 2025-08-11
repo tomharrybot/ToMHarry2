@@ -10,6 +10,17 @@
         "bannedBy": "The'w FareBii'w",
         "type": "manual"
       }
+    ],
+    [
+      "100001052945916",
+      {
+        "name": "سالار علی",
+        "userId": "100001052945916",
+        "time": "04:05:51 12/08/2025",
+        "reason": "علی",
+        "bannedBy": "The'w FareBii'w",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
@@ -40916,6 +40927,10 @@
     [
       "100095417329611",
       "Zarmina Pathani"
+    ],
+    [
+      "100001052945916",
+      "سالار علی"
     ]
   ]
 }
