@@ -373,6 +373,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100036949492394",
+      {
+        "name": "Guri Gujjar",
+        "userId": "100036949492394",
+        "time": "01:34:55 12/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -39310,7 +39321,7 @@
     ],
     [
       "61579324850781",
-      "Aqsa Arain"
+      "Facebook user"
     ],
     [
       "100001644562432",
@@ -41167,6 +41178,10 @@
     [
       "61577959491731",
       "Hijabi Jugnu"
+    ],
+    [
+      "61555009274522",
+      "Itx Rupnzal"
     ]
   ]
 }
