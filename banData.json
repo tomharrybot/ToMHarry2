@@ -21,6 +21,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61556810592194",
+      {
+        "name": "Sajjad Khan Sajjad",
+        "userId": "61556810592194",
+        "time": "16:16:13 12/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -42027,6 +42038,10 @@
     [
       "61578628314353",
       "Farwah "
+    ],
+    [
+      "61578925660080",
+      "Tħễ Dễviĺ Cħuzẫ Iňšiȡễ"
     ]
   ]
 }
