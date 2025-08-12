@@ -98,6 +98,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61578868606558",
+      {
+        "name": "Mia Angel",
+        "userId": "61578868606558",
+        "time": "12:48:34 12/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -41664,6 +41675,14 @@
     [
       "61566384810514",
       "Kämìñä Íñsän"
+    ],
+    [
+      "100088710875393",
+      "زعیم ڈھڈی"
+    ],
+    [
+      "61576878587335",
+      "Devi Jamuna"
     ]
   ]
 }
