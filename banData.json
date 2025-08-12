@@ -54,6 +54,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61578327606813",
+      {
+        "name": "Xtylish Bou",
+        "userId": "61578327606813",
+        "time": "17:35:34 12/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -42792,6 +42803,10 @@
     [
       "100086393929035",
       "Pagli Heer Jutti"
+    ],
+    [
+      "100077587305109",
+      "چوہدری اویس جٹ صاحب"
     ]
   ]
 }
