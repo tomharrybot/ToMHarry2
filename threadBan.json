@@ -1,47 +1,4 @@
 {
-  "threadBanned": [
-    [
-      "24044391118546460",
-      {
-        "reason": "[🌸] Kick bot freely, without permission 🚫",
-        "dateAdded": "12/08/2025 14:55:53"
-      }
-    ],
-    [
-      "25007600915497320",
-      {
-        "reason": "[🌸] Kick bot freely, without permission 🚫",
-        "dateAdded": "12/08/2025 11:49:23"
-      }
-    ],
-    [
-      "8966952563403850",
-      {
-        "reason": "[🌸] Kick bot freely, without permission 🚫",
-        "dateAdded": "12/08/2025 12:43:42"
-      }
-    ],
-    [
-      "9753772898085072",
-      {
-        "reason": "[🌸] Kick bot freely, without permission 🚫",
-        "dateAdded": "12/08/2025 11:23:59"
-      }
-    ],
-    [
-      "30788894844042499",
-      {
-        "reason": "[🌸] Kick bot freely, without permission 🚫",
-        "dateAdded": "12/08/2025 16:57:29"
-      }
-    ],
-    [
-      "9805051552933327",
-      {
-        "reason": "[🌸] Kick bot freely, without permission 🚫",
-        "dateAdded": "12/08/2025 17:27:50"
-      }
-    ]
-  ],
+  "threadBanned": [],
   "commandBanned": []
 }
