@@ -120,6 +120,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61559600890297",
+      {
+        "name": "Arooj malik Arooj malik ",
+        "userId": "61559600890297",
+        "time": "13:43:00 12/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -35033,7 +35044,7 @@
     ],
     [
       "100043938452738",
-      "اسد علی"
+      "Facebook User"
     ],
     [
       "100087079601648",
@@ -41694,6 +41705,10 @@
     [
       "61576878587335",
       "Devi Jamuna"
+    ],
+    [
+      "100075404183221",
+      "Somal Chuzzii"
     ]
   ]
 }
