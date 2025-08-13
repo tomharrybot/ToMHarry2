@@ -208,6 +208,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100043918353509",
+      {
+        "name": "Alishka Ali",
+        "userId": "100043918353509",
+        "time": "11:59:16 13/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -45382,6 +45393,14 @@
     [
       "100083917213950",
       "Mental Rajpoot"
+    ],
+    [
+      "61567186005355",
+      "Minahil Malik"
+    ],
+    [
+      "61569309355028",
+      "Manahil Malik"
     ]
   ]
 }
