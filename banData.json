@@ -230,6 +230,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100012454806150",
+      {
+        "name": "Mɘsʜʌ Kʜʌŋ",
+        "userId": "100012454806150",
+        "time": "02:24:41 14/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -18443,7 +18454,7 @@
     ],
     [
       "61575518374677",
-      "Nomi Ki Ho Yar"
+      "Facebook user"
     ],
     [
       "61575560692744",
@@ -46012,6 +46023,34 @@
     [
       "100075831272232",
       "Jannat Malik"
+    ],
+    [
+      "61558538565064",
+      "Terey Wafa"
+    ],
+    [
+      "61575316468001",
+      "Sizzling Nisha"
+    ],
+    [
+      "100089972342117",
+      "Em-so'Loŋəly Bʀokəŋ'Boy"
+    ],
+    [
+      "61579138680030",
+      "Kritika Ghalley"
+    ],
+    [
+      "61558149376005",
+      "Wasiq Rajpoot"
+    ],
+    [
+      "61557701067941",
+      "Ak Khan"
+    ],
+    [
+      "100075641874686",
+      "Rana Awais"
     ]
   ]
 }
