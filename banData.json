@@ -175,6 +175,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61559558107167",
+      {
+        "name": "Latif Jani",
+        "userId": "61559558107167",
+        "time": "21:24:08 13/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
