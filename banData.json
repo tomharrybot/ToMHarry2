@@ -1,5 +1,17 @@
 {
-  "userBanned": [],
+  "userBanned": [
+    [
+      "100084308155504",
+      {
+        "name": "Syco Chuzaa",
+        "userId": "100084308155504",
+        "time": "13:08:19 13/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
+    ]
+  ],
   "userName": [
     [
       "61562856364269",
