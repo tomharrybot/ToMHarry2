@@ -87,6 +87,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61578023103542",
+      {
+        "name": "شاہد علی بلوچ",
+        "userId": "61578023103542",
+        "time": "18:27:58 13/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -45737,6 +45748,30 @@
     [
       "61564068429160",
       "Nimra Malik"
+    ],
+    [
+      "61579252175583",
+      "Ayesha Yusufzai"
+    ],
+    [
+      "61578023103542",
+      "شاہد علی بلوچ"
+    ],
+    [
+      "61578991397161",
+      "Maah E Rooh"
+    ],
+    [
+      "61573168400679",
+      "Sunny Kiñg"
+    ],
+    [
+      "100070174282127",
+      "Cħocoɭʌty Kʌmııŋʌ"
+    ],
+    [
+      "61563630736697",
+      "ATIF HWW YAR"
     ]
   ]
 }
