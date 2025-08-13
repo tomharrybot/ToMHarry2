@@ -241,6 +241,17 @@
         "bannedBy": "Imdad Ali",
         "type": "manual"
       }
+    ],
+    [
+      "100055317974510",
+      {
+        "name": "Imdad Ali",
+        "userId": "100055317974510",
+        "time": "13:00:26 13/08/2025",
+        "reason": "Ali",
+        "bannedBy": "Heisen Berg",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
