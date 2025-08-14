@@ -120,6 +120,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100048888412690",
+      {
+        "name": "Ikram Ikram",
+        "userId": "100048888412690",
+        "time": "18:42:27 14/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
