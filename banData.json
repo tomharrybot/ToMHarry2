@@ -87,6 +87,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61578033614919",
+      {
+        "name": "Kamli Heer",
+        "userId": "61578033614919",
+        "time": "16:15:24 15/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -46901,6 +46912,18 @@
     [
       "61577310461121",
       "Asma Write"
+    ],
+    [
+      "61572656324297",
+      "Hadii Khan"
+    ],
+    [
+      "61553759579161",
+      "مسٹر پتلو"
+    ],
+    [
+      "61575307401853",
+      "Fab Gril"
     ]
   ]
 }
