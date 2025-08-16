@@ -120,6 +120,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100082456100709",
+      {
+        "name": "Tanha Larka",
+        "userId": "100082456100709",
+        "time": "09:50:44 16/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -16101,7 +16112,7 @@
     ],
     [
       "61564245255734",
-      "Õ Õ DOCTOR　MERI　ID　KA　NAME　SEARCH　MAIM　TO　KYA　SAMJH　MAIN　BHI　NAHI　AYEGA　FT　FARHAN　DRINDA　HERE - X"
+      "Facebook user"
     ],
     [
       "61564587152535",
@@ -47406,6 +47417,26 @@
     [
       "100094423428409",
       "Mahi Hu Yawr"
+    ],
+    [
+      "100089850847346",
+      "Zainab Khan"
+    ],
+    [
+      "61571841232884",
+      "Anabiay Jan"
+    ],
+    [
+      "61570869296438",
+      "Soni Kuri"
+    ],
+    [
+      "61574680091637",
+      "Shazadi Kashmiri"
+    ],
+    [
+      "100022044841492",
+      "Munna Deewana"
     ]
   ]
 }
