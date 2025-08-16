@@ -164,6 +164,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100041764599232",
+      {
+        "name": "Anees Manaf",
+        "userId": "100041764599232",
+        "time": "15:11:29 16/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -47309,7 +47320,7 @@
     ],
     [
       "61576741690616",
-      "Ayesha Azam"
+      "Facebook user"
     ],
     [
       "61576874877834",
@@ -48758,6 +48769,14 @@
     [
       "100090764826145",
       "Sami Bhatti"
+    ],
+    [
+      "100052351254102",
+      "Îdrees Înnocent"
+    ],
+    [
+      "61557750032389",
+      "Anaya Anaya"
     ]
   ]
 }
