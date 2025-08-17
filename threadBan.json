@@ -1,15 +1,4 @@
 {
-  "threadBanned": [
-    [
-      "1459358308522972",
-      {
-        "name": "machili bazzr 🤣",
-        "threadID": "1459358308522972",
-        "time": "06:55:30 17/08/2025",
-        "reason": "No reason provided",
-        "bannedBy": "Unknown"
-      }
-    ]
-  ],
+  "threadBanned": [],
   "commandBanned": []
 }
