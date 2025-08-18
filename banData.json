@@ -54,6 +54,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100071665159673",
+      {
+        "name": "Raju Dasti",
+        "userId": "100071665159673",
+        "time": "21:06:07 18/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -55236,6 +55247,18 @@
     [
       "61550500051569",
       "Uzma Khan"
+    ],
+    [
+      "100095390852500",
+      "Educated Lofar"
+    ],
+    [
+      "61578711292186",
+      "Sweet Poisson"
+    ],
+    [
+      "61572068203563",
+      "Alia Noor"
     ]
   ]
 }
