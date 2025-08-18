@@ -241,6 +241,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61579292885500",
+      {
+        "name": "Cuty Cuty",
+        "userId": "61579292885500",
+        "time": "15:41:27 18/08/2025",
+        "reason": "Cuty",
+        "bannedBy": "The'w FareBii'w",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
