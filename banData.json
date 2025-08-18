@@ -32,6 +32,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100093645133213",
+      {
+        "name": "Syco Kurri",
+        "userId": "100093645133213",
+        "time": "20:15:33 18/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
