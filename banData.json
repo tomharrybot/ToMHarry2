@@ -164,6 +164,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61560542380872",
+      {
+        "name": "Laiba Mughal",
+        "userId": "61560542380872",
+        "time": "00:03:09 20/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -56530,6 +56541,10 @@
     [
       "61575579886808",
       "Xtyĺišħ Ĺẫrḱẫ"
+    ],
+    [
+      "61559313493807",
+      "Noor Shah"
     ]
   ]
 }
