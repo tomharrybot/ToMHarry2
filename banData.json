@@ -1,1 +1,25 @@
-{}
+{
+  "userBanned": [
+    [
+      "100088729275370",
+      {
+        "name": "Ava BoTni",
+        "userId": "100088729275370",
+        "time": "19:31:43 20/08/2025",
+        "reason": "BoTni",
+        "bannedBy": "The'w FareBii'w",
+        "type": "manual"
+      }
+    ]
+  ],
+  "userName": [
+    [
+      "100088729275370",
+      "Ava BoTni"
+    ],
+    [
+      "100000856538718",
+      "The'w FareBii'w"
+    ]
+  ]
+}
