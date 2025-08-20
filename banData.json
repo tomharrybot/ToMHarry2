@@ -10,6 +10,17 @@
         "bannedBy": "The'w FareBii'w",
         "type": "manual"
       }
+    ],
+    [
+      "61578033614919",
+      {
+        "name": "Kamli Heer",
+        "userId": "61578033614919",
+        "time": "23:23:01 20/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -20,6 +31,22 @@
     [
       "100000856538718",
       "The'w FareBii'w"
+    ],
+    [
+      "61550016361497",
+      "Subhan Mental"
+    ],
+    [
+      "61550187250942",
+      "Masoom HO"
+    ],
+    [
+      "61555261582039",
+      "Muhammad Naeem IQbal"
+    ],
+    [
+      "61578033614919",
+      "Kamli Heer"
     ]
   ]
 }
