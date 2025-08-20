@@ -32,6 +32,28 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61569355155244",
+      {
+        "name": "Rehan Ali",
+        "userId": "61569355155244",
+        "time": "15:09:36 20/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
+    ],
+    [
+      "100095085810517",
+      {
+        "name": "𝓒𝓱𝓾𝓶𝓶𝓪𝓪 ;* 🩵",
+        "userId": "100095085810517",
+        "time": "15:22:51 20/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -59274,6 +59296,10 @@
     [
       "61569355155244",
       "Rehan Ali"
+    ],
+    [
+      "100024371253834",
+      "Zaid Ansari"
     ]
   ]
 }
