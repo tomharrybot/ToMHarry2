@@ -76,6 +76,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100071665159673",
+      {
+        "name": "Raju Dasti",
+        "userId": "100071665159673",
+        "time": "17:07:37 21/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -3662,6 +3673,14 @@
     [
       "100090440816487",
       "Zoya Rajpoht"
+    ],
+    [
+      "61551087771353",
+      "Syco Kuri"
+    ],
+    [
+      "100071665159673",
+      "Raju Dasti"
     ]
   ]
 }
