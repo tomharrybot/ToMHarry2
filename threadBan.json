@@ -1,15 +1,4 @@
 {
-  "threadBanned": [
-    [
-      "23918793867725546",
-      {
-        "name": "𓆩ＳＨＡＰＡＴＥＲ𓆪 💀❤️",
-        "threadID": "23918793867725546",
-        "time": "08:45:59 23/08/2025",
-        "reason": "No reason provided",
-        "bannedBy": "Unknown"
-      }
-    ]
-  ],
+  "threadBanned": [],
   "commandBanned": []
 }
