@@ -1,4 +1,22 @@
 {
-  "threadBanned": [],
+  "threadBanned": [
+    [
+      "24181627081526182",
+      {
+        "reason": "[🌸] Kick bot freely, without permission 🚫",
+        "dateAdded": "25/08/2025 14:16:19"
+      }
+    ],
+    [
+      "23918793867725546",
+      {
+        "name": "𓆩ＳＨＡＰＡＴＥＲ𓆪 💀❤️",
+        "threadID": "23918793867725546",
+        "time": "05:08:18 25/08/2025",
+        "reason": "No reason provided",
+        "bannedBy": "Unknown"
+      }
+    ]
+  ],
   "commandBanned": []
 }
