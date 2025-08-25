@@ -30,6 +30,16 @@
         "reason": "No reason provided",
         "bannedBy": "Unknown"
       }
+    ],
+    [
+      "4100054563588521",
+      {
+        "name": "Bot Notifications ⚠️",
+        "threadID": "4100054563588521",
+        "time": "10:36:55 25/08/2025",
+        "reason": "No reason provided",
+        "bannedBy": "Unknown"
+      }
     ]
   ],
   "commandBanned": []
