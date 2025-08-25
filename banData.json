@@ -373,6 +373,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61579285525942",
+      {
+        "name": "SaRa Pesho",
+        "userId": "61579285525942",
+        "time": "01:31:27 26/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -19199,6 +19210,34 @@
     [
       "100089220272034",
       "Khattak Saayeb"
+    ],
+    [
+      "61579239737986",
+      "Ins Aid"
+    ],
+    [
+      "100072873782227",
+      "Desire Desire"
+    ],
+    [
+      "61553094806037",
+      "Qadeer Rajpoot"
+    ],
+    [
+      "100078341830198",
+      "KI NG"
+    ],
+    [
+      "61571497919828",
+      "NeHa Rajpoot"
+    ],
+    [
+      "100089675553606",
+      "Gujjar Gujjri DA"
+    ],
+    [
+      "61576512839532",
+      "Abid Ali Abid Ali"
     ]
   ]
 }
