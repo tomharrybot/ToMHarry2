@@ -230,6 +230,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100014675475507",
+      {
+        "name": "Muhammad Faizan Bhatti",
+        "userId": "100014675475507",
+        "time": "15:09:40 25/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -251,7 +262,7 @@
     ],
     [
       "61555261582039",
-      "Facebook user"
+      "Muhammad Naeem IQbal"
     ],
     [
       "61578033614919",
@@ -6231,7 +6242,7 @@
     ],
     [
       "61560553958735",
-      "Facebook user"
+      "Asma Janii"
     ],
     [
       "61560963233617",
@@ -15624,6 +15635,26 @@
     [
       "100090435817581",
       "Arzoo Khan"
+    ],
+    [
+      "100011699364761",
+      "Sara Hayat"
+    ],
+    [
+      "100047493193490",
+      "Hina Ali Hun Yar"
+    ],
+    [
+      "100084328215344",
+      "دعا شہزادی"
+    ],
+    [
+      "100084783820420",
+      "Sana Malik"
+    ],
+    [
+      "100092366894652",
+      "Waseem Masood Veer"
     ]
   ]
 }
