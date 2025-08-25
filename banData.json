@@ -252,6 +252,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61577976393337",
+      {
+        "name": "Hania Ho Yr ",
+        "userId": "61577976393337",
+        "time": "15:17:49 25/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
