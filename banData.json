@@ -219,6 +219,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61579255479221",
+      {
+        "name": "Ethan Hunt",
+        "userId": "61579255479221",
+        "time": "15:08:14 25/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -988,7 +999,7 @@
     ],
     [
       "61551422346001",
-      "Prince Hu Ywr"
+      "Prince Hu Yr"
     ],
     [
       "61552595085957",
@@ -1024,7 +1035,7 @@
     ],
     [
       "61554780273047",
-      "Zoyan Ansari"
+      "Facebook user"
     ],
     [
       "61554811087076",
@@ -15565,6 +15576,54 @@
     [
       "100095270473944",
       "Javeria Mukhtar"
+    ],
+    [
+      "61561701601904",
+      "Zishi X Babar"
+    ],
+    [
+      "61569133595178",
+      "Zahid Khan"
+    ],
+    [
+      "100001511315251",
+      "M Akbar Awan"
+    ],
+    [
+      "61553491396665",
+      "Noor Fatima"
+    ],
+    [
+      "61564352998317",
+      "Noor Jaan"
+    ],
+    [
+      "61564649026925",
+      "Ayesha Nasir"
+    ],
+    [
+      "61565853968609",
+      "اداس لڑکی"
+    ],
+    [
+      "61568426526615",
+      "Fatima Lodhi"
+    ],
+    [
+      "61575956862957",
+      "Zidi Mahi"
+    ],
+    [
+      "61579296333383",
+      "Apka Babu"
+    ],
+    [
+      "100040941489932",
+      "Tomash Ki Hun Ywrr"
+    ],
+    [
+      "100090435817581",
+      "Arzoo Khan"
     ]
   ]
 }
