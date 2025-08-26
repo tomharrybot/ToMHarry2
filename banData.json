@@ -483,6 +483,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100041764599232",
+      {
+        "name": "Anees Manaf",
+        "userId": "100041764599232",
+        "time": "16:44:43 26/08/2025",
+        "reason": "Manaf",
+        "bannedBy": "Heisen Berg",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
