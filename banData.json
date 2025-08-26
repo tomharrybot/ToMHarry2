@@ -472,17 +472,6 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
-    ],
-    [
-      "100041764599232",
-      {
-        "name": "Anees Manaf",
-        "userId": "100041764599232",
-        "time": "15:46:02 26/08/2025",
-        "reason": "Manaf",
-        "bannedBy": "Imdad Ali",
-        "type": "manual"
-      }
     ]
   ],
   "userName": [
