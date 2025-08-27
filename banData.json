@@ -54,6 +54,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61579661340730",
+      {
+        "name": "Jèrry Hün Yár",
+        "userId": "61579661340730",
+        "time": "11:09:04 27/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -21384,6 +21395,22 @@
     [
       "61572563703255",
       "Bakht Mughal"
+    ],
+    [
+      "100069414439758",
+      "Saifi Badsha"
+    ],
+    [
+      "100091368717512",
+      "Tayyab Khan"
+    ],
+    [
+      "100075709820184",
+      "EX Romeo"
+    ],
+    [
+      "100093706635682",
+      "GıŗlfrieŋdTo'kamıŋy Bhi-bŋaty Haıŋ-bacha'hu Bachı'hı-fsauŋGa"
     ]
   ]
 }
