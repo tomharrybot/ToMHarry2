@@ -109,6 +109,17 @@
         "bannedBy": "Imdad Ali",
         "type": "manual"
       }
+    ],
+    [
+      "61577976393337",
+      {
+        "name": "Hania Ho Yr ",
+        "userId": "61577976393337",
+        "time": "13:38:51 27/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -21459,6 +21470,10 @@
     [
       "61570376049046",
       "Sehar Khan"
+    ],
+    [
+      "61578748482714",
+      "Brand Jatii"
     ]
   ]
 }
