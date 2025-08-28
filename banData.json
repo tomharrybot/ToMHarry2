@@ -263,6 +263,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61570389502386",
+      {
+        "name": "Asma Choudhry",
+        "userId": "61570389502386",
+        "time": "08:14:21 28/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -22689,6 +22700,18 @@
     [
       "100092521015443",
       "CʜocʞʟʌTy Gııʀʟ"
+    ],
+    [
+      "61554900347430",
+      "Abrish Fatima"
+    ],
+    [
+      "100083485444159",
+      "Faizan Gujjar"
+    ],
+    [
+      "61570389502386",
+      "Asma Choudhry"
     ]
   ]
 }
