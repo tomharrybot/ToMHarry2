@@ -340,6 +340,17 @@
         "bannedBy": "Heisen Berg",
         "type": "manual"
       }
+    ],
+    [
+      "61574817968151",
+      {
+        "name": "Tera Dewana Hun Yawr",
+        "userId": "61574817968151",
+        "time": "10:55:54 29/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -25466,6 +25477,14 @@
     [
       "61564621341654",
       "Aɭeen ャ"
+    ],
+    [
+      "61575757496312",
+      "Udas Dil"
+    ],
+    [
+      "61579329676006",
+      "Nimra Malik"
     ]
   ]
 }
