@@ -384,6 +384,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100071665159673",
+      {
+        "name": "Raju Dasti",
+        "userId": "100071665159673",
+        "time": "00:47:02 30/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -25690,6 +25701,14 @@
     [
       "61564538255993",
       "ᗪᖇ ᗴ ᗩᗰ"
+    ],
+    [
+      "61579197150404",
+      "اتھری جٹی"
+    ],
+    [
+      "61569932390814",
+      "لاڈلہ گجر"
     ]
   ]
 }
