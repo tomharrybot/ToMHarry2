@@ -76,6 +76,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100043513267295",
+      {
+        "name": "AH M AD",
+        "userId": "100043513267295",
+        "time": "21:09:41 30/08/2025",
+        "reason": "No reason provided",
+        "bannedBy": "Heyy Ma Nii",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
