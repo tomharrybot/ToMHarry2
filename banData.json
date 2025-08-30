@@ -10,6 +10,17 @@
         "bannedBy": "The'w FareBii'w",
         "type": "manual"
       }
+    ],
+    [
+      "100071665159673",
+      {
+        "name": "Raju Dasti",
+        "userId": "100071665159673",
+        "time": "16:33:00 30/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -26392,6 +26403,38 @@
     [
       "61579711441539",
       "Badshah Khan"
+    ],
+    [
+      "100007594627989",
+      "Smart Tiger"
+    ],
+    [
+      "100018928995101",
+      "Junaid Bhutta"
+    ],
+    [
+      "61570109011094",
+      "Hart Hackers"
+    ],
+    [
+      "61579906581192",
+      "Ebnay Adam"
+    ],
+    [
+      "100065385482556",
+      "Majid Ali"
+    ],
+    [
+      "100069325243290",
+      "محترم کھروس"
+    ],
+    [
+      "61551854666392",
+      "جٹ ڈونٹ کیئر"
+    ],
+    [
+      "61563503426368",
+      "Brocken Queen"
     ]
   ]
 }
