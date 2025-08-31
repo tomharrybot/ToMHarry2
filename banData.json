@@ -175,6 +175,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61553833746859",
+      {
+        "name": "Umar Farooq",
+        "userId": "61553833746859",
+        "time": "12:39:35 31/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -29481,6 +29492,14 @@
     [
       "61555048898776",
       "Zalim Larka Hami"
+    ],
+    [
+      "61579654903803",
+      "Nimra Javed"
+    ],
+    [
+      "61555742656765",
+      "بـﹻﹻﹻﹻﹿٰٰٰٖٖٖٜ۬ــٰـٖـٰ۬ـٖـــد مــٰـٖـٰ۬ــٰـٖـٰ۬ـٖـــٖــزاج"
     ]
   ]
 }
