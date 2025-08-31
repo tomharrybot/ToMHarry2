@@ -307,6 +307,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100033313654065",
+      {
+        "name": "Mano Doll",
+        "userId": "100033313654065",
+        "time": "02:02:44 01/09/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -740,7 +751,7 @@
     ],
     [
       "100015490155530",
-      "Facebook user"
+      "Sufiyan Butt"
     ],
     [
       "100016481621825",
@@ -29961,6 +29972,38 @@
     [
       "100036882182996",
       "Anglika E X"
+    ],
+    [
+      "61552522058122",
+      "Mʀ Roɱʌntıc"
+    ],
+    [
+      "100078630198181",
+      "Samar Shahzad"
+    ],
+    [
+      "61552420973603",
+      "Em Sehrish"
+    ],
+    [
+      "100082333401327",
+      "Sidra Noor"
+    ],
+    [
+      "100090048973669",
+      "Huma Butt"
+    ],
+    [
+      "100060708740942",
+      "BîgRè Awan Zadi"
+    ],
+    [
+      "61576769205477",
+      "Zoya Ali"
+    ],
+    [
+      "100093368765907",
+      "Mughal Zadi"
     ]
   ]
 }
