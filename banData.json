@@ -285,6 +285,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61577945924875",
+      {
+        "name": "Ɗɘvɩɭ Ɩŋsɩɗɘ",
+        "userId": "61577945924875",
+        "time": "21:36:27 31/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -29923,6 +29934,10 @@
     [
       "100023547879024",
       "Annu Rai"
+    ],
+    [
+      "61578628783707",
+      "Qirat Chaudhary"
     ]
   ]
 }
