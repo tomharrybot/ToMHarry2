@@ -1,15 +1,4 @@
 {
-  "threadBanned": [
-    [
-      "9575008182591098",
-      {
-        "name": "𝙍𝙚𝙟𝙚𝙘𝙩𝙚𝙙 𝙥𝙚𝙤𝙥𝙡𝙚🪨🙂",
-        "threadID": "9575008182591098",
-        "time": "10:58:34 30/08/2025",
-        "reason": "No reason provided",
-        "bannedBy": "Unknown"
-      }
-    ]
-  ],
+  "threadBanned": [],
   "commandBanned": []
 }
