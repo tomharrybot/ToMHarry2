@@ -131,6 +131,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61578958937691",
+      {
+        "name": "乛OvعR تــھنکـــرャ",
+        "userId": "61578958937691",
+        "time": "08:19:04 31/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -29105,6 +29116,14 @@
     [
       "61563696156014",
       "Eman Shehzadi"
+    ],
+    [
+      "61571220175560",
+      "Fatima Muneeba"
+    ],
+    [
+      "100071745132226",
+      "ᏉᏋᏒᎩ ᏋᎷᎧᏖᎥᎧᏁᏗᏝ ᏒᏗᏕᏦᏗᏝ"
     ]
   ]
 }
