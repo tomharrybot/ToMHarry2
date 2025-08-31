@@ -197,6 +197,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100087488762529",
+      {
+        "name": "کنیز زینب",
+        "userId": "100087488762529",
+        "time": "14:03:38 31/08/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -29511,6 +29522,10 @@
     [
       "61555742656765",
       "بـﹻﹻﹻﹻﹿٰٰٰٖٖٖٜ۬ــٰـٖـٰ۬ـٖـــد مــٰـٖـٰ۬ــٰـٖـٰ۬ـٖـــٖــزاج"
+    ],
+    [
+      "61578193366830",
+      "Maano Hoon Yrr"
     ]
   ]
 }
