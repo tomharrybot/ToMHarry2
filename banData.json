@@ -197,6 +197,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61551548562464",
+      {
+        "name": "Ahammad Ali",
+        "userId": "61551548562464",
+        "time": "14:17:35 03/09/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -31994,7 +32005,7 @@
     ],
     [
       "61574813996862",
-      "Khati Meethi"
+      "Chitti Kuri"
     ],
     [
       "61574946938532",
@@ -33994,7 +34005,7 @@
     ],
     [
       "61578929730120",
-      "セニョリータ あの"
+      "Facebook user"
     ],
     [
       "61579739087625",
@@ -35271,6 +35282,22 @@
     [
       "100094189924032",
       "Ghulam Murtaza"
+    ],
+    [
+      "61579595528216",
+      "Faiqa Areej"
+    ],
+    [
+      "100094401343883",
+      "Abid Khan"
+    ],
+    [
+      "100028203429046",
+      "Shahbaz Prince"
+    ],
+    [
+      "100004929126236",
+      "Sunny Tarar"
     ]
   ]
 }
