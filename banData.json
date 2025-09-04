@@ -274,6 +274,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61558910242302",
+      {
+        "name": "Zidi Larky Zidi Larky",
+        "userId": "61558910242302",
+        "time": "19:13:16 04/09/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
