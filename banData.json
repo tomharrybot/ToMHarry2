@@ -252,6 +252,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61561373332740",
+      {
+        "name": "Nawab Zada",
+        "userId": "61561373332740",
+        "time": "18:34:06 04/09/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -35898,6 +35909,22 @@
     [
       "61580202692680",
       "Z0Y9W KH9WN"
+    ],
+    [
+      "100018220663472",
+      "Âzan Ķhałil"
+    ],
+    [
+      "61577229481590",
+      "Khan G"
+    ],
+    [
+      "61565051168393",
+      "H Màsøøm"
+    ],
+    [
+      "61572360208831",
+      "Razia Muskan Shehzadi"
     ]
   ]
 }
