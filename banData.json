@@ -1,5 +1,17 @@
 {
-  "userBanned": [],
+  "userBanned": [
+    [
+      "100088729275370",
+      {
+        "name": "Ava BoTni",
+        "userId": "100088729275370",
+        "time": "14:44:28 05/09/2025",
+        "reason": "BoTni",
+        "bannedBy": "The'w FareBii'w",
+        "type": "manual"
+      }
+    ]
+  ],
   "userName": [
     [
       "100088729275370",
