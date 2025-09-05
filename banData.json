@@ -351,6 +351,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61572916345308",
+      {
+        "name": "اِگّوئس٘ٹِک٘ کَائِنَات٘",
+        "userId": "61572916345308",
+        "time": "09:45:08 05/09/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -36753,6 +36764,10 @@
     [
       "61579922466207",
       "Aryan Ch"
+    ],
+    [
+      "61572916345308",
+      "اِگّوئس٘ٹِک٘ کَائِنَات٘"
     ]
   ]
 }
