@@ -21,6 +21,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100091980041595",
+      {
+        "name": "Zåîbí Khâñ",
+        "userId": "100091980041595",
+        "time": "15:34:59 05/09/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
