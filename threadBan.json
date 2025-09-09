@@ -1,15 +1,4 @@
 {
-  "threadBanned": [
-    [
-      "9515066068610094",
-      {
-        "name": "❤️Lovely Friends ❤️",
-        "threadID": "9515066068610094",
-        "time": "11:03:58 09/09/2025",
-        "reason": "No reason provided",
-        "bannedBy": "Facebook user"
-      }
-    ]
-  ],
+  "threadBanned": [],
   "commandBanned": []
 }
