@@ -186,6 +186,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100037873034970",
+      {
+        "name": "Mohib Ali",
+        "userId": "100037873034970",
+        "time": "21:46:59 09/09/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -39260,6 +39271,14 @@
     [
       "100082220893645",
       "Dimple Queen"
+    ],
+    [
+      "100082372546728",
+      "Sanam Mughal"
+    ],
+    [
+      "100083735859658",
+      "Nʌwʌɓ Zʌɗʌ"
     ]
   ]
 }
