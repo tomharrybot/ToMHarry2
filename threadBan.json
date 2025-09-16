@@ -1,4 +1,15 @@
 {
-  "threadBanned": [],
+  "threadBanned": [
+    [
+      "61557450231867",
+      {
+        "name": "Unknown",
+        "threadID": "61557450231867",
+        "time": "10:52:24 16/09/2025",
+        "reason": "No reason provided",
+        "bannedBy": "Unknown"
+      }
+    ]
+  ],
   "commandBanned": []
 }
