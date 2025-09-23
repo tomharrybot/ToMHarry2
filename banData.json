@@ -65,6 +65,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61581133049954",
+      {
+        "name": "Heart Beat",
+        "userId": "61581133049954",
+        "time": "07:29:25 23/09/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -38082,7 +38093,7 @@
     ],
     [
       "100088557531117",
-      "Armani Armani"
+      "Facebook user"
     ],
     [
       "61553392187548",
@@ -40879,6 +40890,42 @@
     [
       "61581115981728",
       "Nainaa "
+    ],
+    [
+      "61559821286657",
+      "Eman Arain"
+    ],
+    [
+      "61571581441107",
+      "Siraj Ali"
+    ],
+    [
+      "61579324850110",
+      "Salman Khan"
+    ],
+    [
+      "100024104644456",
+      "Noman Ali"
+    ],
+    [
+      "100080326395199",
+      "Oye Janu"
+    ],
+    [
+      "100083947862572",
+      "Jawad Ahmad"
+    ],
+    [
+      "100089320895138",
+      "Jaweria Doll"
+    ],
+    [
+      "100089325428741",
+      "Dɩlʌwʌɽ ʜʋssʌɩŋ"
+    ],
+    [
+      "61557236133964",
+      "Nʌɗʌŋ Lʌʀĸʌ"
     ]
   ]
 }
