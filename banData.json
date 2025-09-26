@@ -120,6 +120,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61570939100827",
+      {
+        "name": "خاموشی اک عبادت",
+        "userId": "61570939100827",
+        "time": "21:31:11 26/09/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
