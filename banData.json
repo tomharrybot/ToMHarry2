@@ -296,6 +296,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61569245431348",
+      {
+        "name": "Ayen OO",
+        "userId": "61569245431348",
+        "time": "00:02:33 17/10/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -42134,6 +42145,18 @@
     [
       "100090710995391",
       "Įnnôçênt King"
+    ],
+    [
+      "61581047130686",
+      "Ur Crush"
+    ],
+    [
+      "61570380755319",
+      "Malik Sab"
+    ],
+    [
+      "61569245431348",
+      "Ayen OO"
     ]
   ]
 }
