@@ -362,6 +362,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61579049739933",
+      {
+        "name": "Aapka Babu",
+        "userId": "61579049739933",
+        "time": "22:14:10 19/10/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
