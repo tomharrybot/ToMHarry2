@@ -362,6 +362,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100090839902065",
+      {
+        "name": "Ben Stokes",
+        "userId": "100090839902065",
+        "time": "02:35:56 22/10/2025",
+        "reason": "Stokes",
+        "bannedBy": "ToM HarDy",
+        "type": "manual"
+      }
     ]
   ],
   "userName": [
@@ -45284,6 +45295,10 @@
     [
       "100015045300922",
       "Bashir Niåzî"
+    ],
+    [
+      "100090839902065",
+      "Ben Stokes"
     ]
   ]
 }
