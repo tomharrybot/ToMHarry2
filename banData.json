@@ -439,6 +439,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61555128150664",
+      {
+        "name": "Missaria Aria",
+        "userId": "61555128150664",
+        "time": "21:03:37 24/10/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
