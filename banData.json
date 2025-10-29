@@ -527,6 +527,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61558521671809",
+      {
+        "name": "Anjan Kakar",
+        "userId": "61558521671809",
+        "time": "20:43:15 29/10/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -41072,7 +41083,7 @@
     ],
     [
       "100094596133304",
-      "Anaya Ziyan"
+      "Muskan Muskan"
     ],
     [
       "100094651200037",
@@ -41440,7 +41451,7 @@
     ],
     [
       "61555949714346",
-      "Educated Sial"
+      "Facebook user"
     ],
     [
       "61559106165127",
@@ -48733,6 +48744,22 @@
     [
       "61580842255567",
       "Sabira Khan"
+    ],
+    [
+      "61576249814993",
+      "Syco Jutt"
+    ],
+    [
+      "100066816919233",
+      "Pãgãl Lãrki"
+    ],
+    [
+      "100085573399532",
+      "Saniya Ali"
+    ],
+    [
+      "61569820977541",
+      "Hira Milk Hira Mal"
     ]
   ]
 }
