@@ -527,6 +527,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100086144290848",
+      {
+        "name": "Danish Qadir",
+        "userId": "100086144290848",
+        "time": "20:45:51 31/10/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -48749,6 +48760,54 @@
     [
       "61569820977541",
       "Hira Milk Hira Mal"
+    ],
+    [
+      "61554427566136",
+      "Ali Khan"
+    ],
+    [
+      "100054917869265",
+      "Rana Rajpoot"
+    ],
+    [
+      "61579799421827",
+      "Waqas Kohkar Ali"
+    ],
+    [
+      "61583183214248",
+      "Facebook user"
+    ],
+    [
+      "100092379699255",
+      "Matloob Arain"
+    ],
+    [
+      "100071213769608",
+      "Fiaz Ahmad"
+    ],
+    [
+      "61581766979891",
+      "Lafanga Lofar"
+    ],
+    [
+      "61571175298614",
+      "Inoxcent Larka"
+    ],
+    [
+      "100075738573769",
+      "Ali Raza"
+    ],
+    [
+      "61582560339491",
+      "Hania Khan"
+    ],
+    [
+      "61579890912497",
+      "S Jaan"
+    ],
+    [
+      "61553549422654",
+      "Ayesha Iyaz"
     ]
   ]
 }
