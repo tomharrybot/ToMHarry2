@@ -549,6 +549,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100054917869265",
+      {
+        "name": "Rana Rajpoot",
+        "userId": "100054917869265",
+        "time": "01:17:45 02/11/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
