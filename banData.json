@@ -538,6 +538,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100094324002557",
+      {
+        "name": "Shoaib Wiki",
+        "userId": "100094324002557",
+        "time": "18:00:49 01/11/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -49360,6 +49371,34 @@
     [
       "100094324002557",
       "Shoaib Wiki"
+    ],
+    [
+      "61566374013483",
+      "Abaidullah G"
+    ],
+    [
+      "61560886139358",
+      "Illıllı Masoom Illıllı"
+    ],
+    [
+      "100082725670481",
+      "Inoxent Rajput"
+    ],
+    [
+      "100082913766832",
+      "Qurban Ali Solangi"
+    ],
+    [
+      "100089797959936",
+      "Ibrar Sharif"
+    ],
+    [
+      "100086165811446",
+      "Mujahid Hussain"
+    ],
+    [
+      "61579418355498",
+      "Sindhiii bacha"
     ]
   ]
 }
