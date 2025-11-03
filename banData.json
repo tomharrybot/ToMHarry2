@@ -593,6 +593,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100053130573210",
+      {
+        "name": "Massom Khan",
+        "userId": "100053130573210",
+        "time": "13:11:50 03/11/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -50295,6 +50306,22 @@
     [
       "100092985794040",
       "Orzah S"
+    ],
+    [
+      "61579540045067",
+      "Tʜw Ràjput Iƞxıde"
+    ],
+    [
+      "61567879636906",
+      "Hassan Jani"
+    ],
+    [
+      "61560215921650",
+      "Xtƴɭɩsʜ Boƴ"
+    ],
+    [
+      "61577393187846",
+      "Kʋɽııyoŋ Kʌ Sʜaʜzʌʌdʌ"
     ]
   ]
 }
