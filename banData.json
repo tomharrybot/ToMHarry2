@@ -1,5 +1,17 @@
 {
-  "userBanned": [],
+  "userBanned": [
+    [
+      "100014782638793",
+      {
+        "name": "Shahzadi Zaadi",
+        "userId": "100014782638793",
+        "time": "23:31:57 04/11/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
+    ]
+  ],
   "userName": [
     [
       "100088729275370",
