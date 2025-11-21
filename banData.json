@@ -164,6 +164,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61570006898946",
+      {
+        "name": "Shareef Larki",
+        "userId": "61570006898946",
+        "time": "09:33:06 21/11/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -52974,6 +52985,10 @@
     [
       "100088190287532",
       "Zinda Lash"
+    ],
+    [
+      "100009987911367",
+      "Arsalan Khan"
     ]
   ]
 }
