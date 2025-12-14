@@ -54,6 +54,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100051794926625",
+      {
+        "name": "Iŋterŋatııoŋal ɱʌsooɱ Atif",
+        "userId": "100051794926625",
+        "time": "12:44:08 14/12/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
