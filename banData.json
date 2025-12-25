@@ -87,6 +87,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100076823808671",
+      {
+        "name": "Hoƞɜɤ Edıtɔɼ",
+        "userId": "100076823808671",
+        "time": "22:43:36 25/12/2025",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
