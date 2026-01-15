@@ -1,5 +1,17 @@
 {
-  "userBanned": [],
+  "userBanned": [
+    [
+      "@Ava",
+      {
+        "name": "Unknown",
+        "userId": "@Ava",
+        "time": "15:11:15 15/01/2026",
+        "reason": "BoTni Hun Yw'r",
+        "bannedBy": "The'w FareBii'w",
+        "type": "manual"
+      }
+    ]
+  ],
   "userName": [
     [
       "61562856364269",
@@ -3888,6 +3900,10 @@
     [
       "100093294705852",
       "Anila Abbasi"
+    ],
+    [
+      "@Ava",
+      "Unknown"
     ]
   ]
 }
