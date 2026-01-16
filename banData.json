@@ -1,28 +1,5 @@
 {
-  "userBanned": [
-    [
-      "@Ava",
-      {
-        "name": "Unknown",
-        "userId": "@Ava",
-        "time": "00:25:38 16/01/2026",
-        "reason": "BoTni Hun Yw'r",
-        "bannedBy": "The'w FareBii'w",
-        "type": "manual"
-      }
-    ],
-    [
-      "61577792696475",
-      {
-        "name": "😈 ☇ Cɽi͜͡m̽⃟ɪ͜͡ɪn͜͡ʌɭ Chʌ̽͢ɽ⃟sɪ͜͡ɪw ☈ 🖤🪽",
-        "userId": "61577792696475",
-        "time": "01:54:47 16/01/2026",
-        "reason": "No reason provided",
-        "bannedBy": "Ītx Bella",
-        "type": "manual"
-      }
-    ]
-  ],
+  "userBanned": [],
   "userName": [
     [
       "61562856364269",
