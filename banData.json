@@ -1,5 +1,17 @@
 {
-  "userBanned": [],
+  "userBanned": [
+    [
+      "61577792696475",
+      {
+        "name": "😈 ☇ Cɽi͜͡m̽⃟ɪ͜͡ɪn͜͡ʌɭ Chʌ̽͢ɽ⃟sɪ͜͡ɪw ☈ 🖤🪽",
+        "userId": "61577792696475",
+        "time": "14:37:27 16/01/2026",
+        "reason": "No reason provided",
+        "bannedBy": "Ītx Bella",
+        "type": "manual"
+      }
+    ]
+  ],
   "userName": [
     [
       "61562856364269",
