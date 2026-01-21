@@ -1,15 +1,4 @@
 {
-  "threadBanned": [
-    [
-      "9323280961112665",
-      {
-        "name": "TH3 L3GEND KOJA XD",
-        "threadID": "9323280961112665",
-        "time": "03:02:32 05/11/2025",
-        "reason": "No reason provided",
-        "bannedBy": "Facebook user"
-      }
-    ]
-  ],
+  "threadBanned": [],
   "commandBanned": []
 }
