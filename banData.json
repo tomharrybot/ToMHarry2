@@ -153,6 +153,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100090839902065",
+      {
+        "name": "Ava BoTni Hun Yw'r",
+        "userId": "100090839902065",
+        "time": "23:43:37 24/01/2026",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -5535,6 +5546,18 @@
     [
       "61550485763664",
       "Laiba Malik"
+    ],
+    [
+      "61586546176758",
+      "Itz Malika"
+    ],
+    [
+      "61558595518340",
+      "Masoom Bacha"
+    ],
+    [
+      "61584351778926",
+      "Fanii Butt"
     ]
   ]
 }
