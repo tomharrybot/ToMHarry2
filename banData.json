@@ -131,6 +131,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100087329440285",
+      {
+        "name": "Dani Shah",
+        "userId": "100087329440285",
+        "time": "09:41:01 24/01/2026",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
