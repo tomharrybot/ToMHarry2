@@ -164,6 +164,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61587917287665",
+      {
+        "name": "Saim Rajput",
+        "userId": "61587917287665",
+        "time": "06:08:42 24/02/2026",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -7378,6 +7389,26 @@
     [
       "100081223542509",
       "Talha Shahid"
+    ],
+    [
+      "100070531777559",
+      "رو گی"
+    ],
+    [
+      "61577725455272",
+      "Zaalıım Gıırl"
+    ],
+    [
+      "100078232802910",
+      "Moon Rajpoot"
+    ],
+    [
+      "100072277496933",
+      "Aleezy Liza"
+    ],
+    [
+      "61587917287665",
+      "Saim Rajput"
     ]
   ]
 }
