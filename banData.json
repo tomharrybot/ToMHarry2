@@ -230,6 +230,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100014372592853",
+      {
+        "name": "Ali Sarfraz",
+        "userId": "100014372592853",
+        "time": "12:40:12 28/02/2026",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -9908,6 +9919,10 @@
     [
       "100084929672185",
       "Zainab Hijab"
+    ],
+    [
+      "100066797892527",
+      "Fresg Fresg"
     ]
   ]
 }
