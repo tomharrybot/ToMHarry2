@@ -274,6 +274,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100076333839840",
+      {
+        "name": "Ķhížãř Åłi",
+        "userId": "100076333839840",
+        "time": "11:56:39 02/03/2026",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -10072,6 +10083,10 @@
     [
       "100024597901993",
       "Zeeshan Ahmad"
+    ],
+    [
+      "100076333839840",
+      "Ķhížãř Åłi"
     ]
   ]
 }
