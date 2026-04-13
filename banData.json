@@ -362,6 +362,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "100044239504742",
+      {
+        "name": "Nouman Fateh",
+        "userId": "100044239504742",
+        "time": "23:01:43 13/04/2026",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -11980,6 +11991,10 @@
     [
       "61581709523556",
       "Khʌƞ Cʚɞƞcɛpʈ"
+    ],
+    [
+      "100087946717490",
+      "Mirrah Noor"
     ]
   ]
 }
