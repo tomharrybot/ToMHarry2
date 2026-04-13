@@ -351,6 +351,17 @@
         "bannedBy": "System (Auto-Ban)",
         "type": "auto"
       }
+    ],
+    [
+      "61576894738564",
+      {
+        "name": "Facebook user",
+        "userId": "61576894738564",
+        "time": "16:01:03 13/04/2026",
+        "reason": "Spamming (5 messages in 5 seconds)",
+        "bannedBy": "System (Auto-Ban)",
+        "type": "auto"
+      }
     ]
   ],
   "userName": [
@@ -7688,7 +7699,7 @@
     ],
     [
       "61588142702207",
-      "Kehna Zain Aya Tha"
+      "Dilkash Hun Yar"
     ],
     [
       "61588170154025",
@@ -8872,15 +8883,15 @@
     ],
     [
       "61556249832659",
-      "Hamadullah Katohar"
+      "Karamullah Katohar"
     ],
     [
       "61588572838839",
-      "Shaikh Zada"
+      "Zainu Hun Yar"
     ],
     [
       "61588597077528",
-      "Boss Hu Yar"
+      "Descent Larka"
     ],
     [
       "100012112512175",
@@ -11937,6 +11948,38 @@
     [
       "61554035953876",
       "Asʇɽɔ Hʌƞɼɣ"
+    ],
+    [
+      "61575964647168",
+      "آرائیں کڑی"
+    ],
+    [
+      "61577961299240",
+      "Sad Kurii"
+    ],
+    [
+      "100017726472406",
+      "Angle Shezadi"
+    ],
+    [
+      "61556583260575",
+      "SIMPLE AI BOT"
+    ],
+    [
+      "61587024952646",
+      "Muazam Shaikh"
+    ],
+    [
+      "100093947596734",
+      "Sony Bot"
+    ],
+    [
+      "100087463657454",
+      "Dưa Gujjar"
+    ],
+    [
+      "61581709523556",
+      "Khʌƞ Cʚɞƞcɛpʈ"
     ]
   ]
 }
